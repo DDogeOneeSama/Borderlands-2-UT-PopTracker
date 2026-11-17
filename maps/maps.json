@@ -381,7 +381,7 @@
     "name": "MinesOfAvarice",
     "location_size": 6,
     "location_border_thickness": 1,
-    "img": "images/maps/BL2 Mines Of Avarice.jpg"
+    "img": "images/maps/BL2 Mines of Avarice.jpg"
   },
   {
     "name": "HatredsShadow",
@@ -393,7 +393,7 @@
     "name": "LairOfInfiniteAgony",
     "location_size": 6,
     "location_border_thickness": 1,
-    "img": "images/maps/BL2 Lair Of Infinite Agony.jpg"
+    "img": "images/maps/BL2 Lair of Infinite Agony.jpg"
   },
   {
     "name": "DragonKeep",
