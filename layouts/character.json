@@ -1,0 +1,181 @@
+{
+  "character_grid_horizontal": {
+    "type": "array",
+    "orientation": "horizontal",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "h_alignment": "left",
+            "item_h_alignment": "center",
+            "item_v_alignment": "center",
+            "item_height": 36,
+            "item_width": 36,
+            "rows": [
+              [
+                "license-commonpistol",
+                "license-uncommonpistol",
+                "license-rarepistol",
+                "license-veryrarepistol",
+                "license-e-techpistol",
+                "license-legendarypistol",
+                "license-seraphpistol",
+                "",
+                "license-pearlescentpistol",
+                "license-uniquepistol"
+              ],
+              [
+                "license-commonassaultrifle",
+                "license-uncommonassaultrifle",
+                "license-rareassaultrifle",
+                "license-veryrareassaultrifle",
+                "license-e-techassaultrifle",
+                "license-legendaryassaultrifle",
+                "license-seraphassaultrifle",
+                "license-rainbowassaultrifle",
+                "license-pearlescentassaultrifle",
+                "license-uniqueassaultrifle"
+              ],
+              [
+                "license-commonshotgun",
+                "license-uncommonshotgun",
+                "license-rareshotgun",
+                "license-veryrareshotgun",
+                "license-e-techshotgun",
+                "license-legendaryshotgun",
+                "license-seraphshotgun",
+                "license-rainbowshotgun",
+                "license-pearlescentshotgun",
+                "license-uniqueshotgun"
+              ],
+              [
+                "license-commonsmg",
+                "license-uncommonsmg",
+                "license-raresmg",
+                "license-veryraresmg",
+                "license-e-techsmg",
+                "license-legendarysmg",
+                "license-seraphsmg",
+                "license-rainbowsmg",
+                "license-pearlescentsmg",
+                "license-uniquesmg"
+              ],
+              [
+                "license-commonsniperrifle",
+                "license-uncommonsniperrifle",
+                "license-raresniperrifle",
+                "license-veryraresniperrifle",
+                "license-e-techsniperrifle",
+                "license-legendarysniperrifle",
+                "license-seraphsniperrifle",
+                "license-rainbowsniperrifle",
+                "license-pearlescentsniperrifle",
+                "license-uniquesniperrifle"
+              ],
+              [
+                "license-commonrocketlauncher",
+                "license-uncommonrocketlauncher",
+                "license-rarerocketlauncher",
+                "license-veryrarerocketlauncher",
+                "license-e-techrocketlauncher",
+                "license-legendaryrocketlauncher",
+                "license-seraphrocketlauncher",
+                "license-rainbowrocketlauncher",
+                "license-pearlescentrocketlauncher",
+                "license-uniquerocketlauncher"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "h_alignment": "left",
+            "item_h_alignment": "center",
+            "item_v_alignment": "center",
+            "item_height": 36,
+            "item_width": 36,
+            "rows": [
+              [
+                "license-commongrenademod",
+                "license-uncommongrenademod",
+                "license-raregrenademod",
+                "license-veryraregrenademod",
+                "",
+                "license-legendarygrenademod",
+                "license-seraphgrenademod",
+                "license-rainbowgrenademod",
+                "license-uniquegrenademod"
+              ],
+              [
+                "license-commonshield",
+                "license-uncommonshield",
+                "license-rareshield",
+                "license-veryrareshield",
+                "",
+                "license-legendaryshield",
+                "license-seraphshield",
+                "license-rainbowshield",
+                "license-uniqueshield"
+              ],
+              [
+                "license-commonclassmod",
+                "license-uncommonclassmod",
+                "license-rareclassmod",
+                "license-veryrareclassmod",
+                "",
+                "license-legendaryclassmod",
+                "",
+                "",
+                ""
+              ],
+              [
+                "license-commonrelic",
+                "license-uncommonrelic",
+                "license-rarerelic",
+                "license-veryrarerelic",
+                "license-e-techrelic",
+                "",
+                "license-seraphrelic",
+                "license-rainbowrelic",
+                "license-uniquerelic"
+              ],
+              [
+                "maxammopistol",
+                "maxammoassaultrifle",
+                "maxammoshotgun",
+                "maxammosmg",
+                "maxammosniperrifle",
+                "maxammorocketlauncher",
+                "maxgrenadecount"
+              ],
+              [
+                "backpackupgrade",
+                "progressiveweaponslot",
+                "progressivejump",
+                "progressivesprint",
+                "progressivemoneycap",
+                "melee",
+                "crouch",
+                "vehiclefire",
+                "3skillpoints"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

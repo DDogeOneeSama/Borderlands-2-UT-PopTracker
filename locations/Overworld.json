@@ -1,0 +1,6541 @@
+[
+  {
+    "name": "Quest: Overworld",
+    "overlay_background": "#000000",
+    "children": [
+      {
+        "name": "Levels",
+        "sections": [
+          {
+            "name": "Level 2 Reached"
+          },
+          {
+            "name": "Level 3 Reached"
+          },
+          {
+            "name": "Level 4 Reached"
+          },
+          {
+            "name": "Level 5 Reached"
+          },
+          {
+            "name": "Level 6 Reached"
+          },
+          {
+            "name": "Level 7 Reached"
+          },
+          {
+            "name": "Level 8 Reached"
+          },
+          {
+            "name": "Level 9 Reached"
+          },
+          {
+            "name": "Level 10 Reached"
+          },
+          {
+            "name": "Level 11 Reached"
+          },
+          {
+            "name": "Level 12 Reached"
+          },
+          {
+            "name": "Level 13 Reached"
+          },
+          {
+            "name": "Level 14 Reached"
+          },
+          {
+            "name": "Level 15 Reached"
+          },
+          {
+            "name": "Level 16 Reached"
+          },
+          {
+            "name": "Level 17 Reached"
+          },
+          {
+            "name": "Level 18 Reached"
+          },
+          {
+            "name": "Level 19 Reached"
+          },
+          {
+            "name": "Level 20 Reached"
+          },
+          {
+            "name": "Level 21 Reached"
+          },
+          {
+            "name": "Level 22 Reached"
+          },
+          {
+            "name": "Level 23 Reached"
+          },
+          {
+            "name": "Level 24 Reached"
+          },
+          {
+            "name": "Level 25 Reached"
+          },
+          {
+            "name": "Level 26 Reached"
+          },
+          {
+            "name": "Level 27 Reached"
+          },
+          {
+            "name": "Level 28 Reached"
+          },
+          {
+            "name": "Level 29 Reached"
+          },
+          {
+            "name": "Level 30 Reached"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 450,
+            "y": 520,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Generic Drops",
+        "sections": [
+          {
+            "name": "Quest: Skag Generic Drop"
+          },
+          {
+            "name": "Quest: Rakk Generic Drop"
+          },
+          {
+            "name": "Quest: Bullymong Generic Drop"
+          },
+          {
+            "name": "Quest: Psycho Generic Drop"
+          },
+          {
+            "name": "Quest: Rat Generic Drop"
+          },
+          {
+            "name": "Quest: Spiderant Generic Drop"
+          },
+          {
+            "name": "Quest: Varkid Generic Drop"
+          },
+          {
+            "name": "Quest: Goliath Generic Drop"
+          },
+          {
+            "name": "Quest: Marauder Generic Drop"
+          },
+          {
+            "name": "Quest: Stalker Generic Drop"
+          },
+          {
+            "name": "Quest: Midget Generic Drop"
+          },
+          {
+            "name": "Quest: Nomad Generic Drop"
+          },
+          {
+            "name": "Quest: Thresher Generic Drop"
+          },
+          {
+            "name": "Quest: Badass Generic Drop"
+          },
+          {
+            "name": "Quest: Skeleton Generic Drop"
+          },
+          {
+            "name": "Quest: Loader Generic Drop"
+          },
+          {
+            "name": "Quest: Crystalisk Generic Drop"
+          },
+          {
+            "name": "Quest: Surveyor Generic Drop"
+          },
+          {
+            "name": "Quest: Hyperion Personnel Generic Drop"
+          },
+          {
+            "name": "Quest: Constructor Generic Drop"
+          },
+          {
+            "name": "Quest: Buzzard Generic Drop"
+          },
+          {
+            "name": "Quest: Pirate Generic Drop"
+          },
+          {
+            "name": "Quest: Sand Worm Generic Drop"
+          },
+          {
+            "name": "Quest: Biker Generic Drop"
+          },
+          {
+            "name": "Quest: Flyboy Buzzard Generic Drop"
+          },
+          {
+            "name": "Quest: Torgue Loader Generic Drop"
+          },
+          {
+            "name": "Quest: Borok Generic Drop"
+          },
+          {
+            "name": "Quest: Savage Generic Drop"
+          },
+          {
+            "name": "Quest: Witch Doctor Generic Drop"
+          },
+          {
+            "name": "Quest: Drifter Generic Drop"
+          },
+          {
+            "name": "Quest: Scaylion Generic Drop"
+          },
+          {
+            "name": "Quest: Spore Generic Drop"
+          },
+          {
+            "name": "Quest: Golem Generic Drop"
+          },
+          {
+            "name": "Quest: Spider Generic Drop"
+          },
+          {
+            "name": "Quest: Treant Generic Drop"
+          },
+          {
+            "name": "Quest: Pixie Generic Drop"
+          },
+          {
+            "name": "Quest: Orc Generic Drop"
+          },
+          {
+            "name": "Quest: Knight Generic Drop"
+          },
+          {
+            "name": "Quest: Dragon Generic Drop"
+          },
+          {
+            "name": "Quest: Mimic Generic Drop"
+          },
+          {
+            "name": "Quest: Dwarf Generic Drop"
+          },
+          {
+            "name": "Quest: Spellcaster Generic Drop"
+          },
+          {
+            "name": "Quest: Infected Generic Drop"
+          },
+          {
+            "name": "Quest: New Pandora Unit Generic Drop"
+          },
+          {
+            "name": "Quest: Pump-Kin Generic Drop"
+          },
+          {
+            "name": "Quest: Chef Generic Drop"
+          },
+          {
+            "name": "Quest: TorgueVision Generic Drop"
+          },
+          {
+            "name": "Quest: Stabber Jabber Generic Drop"
+          },
+          {
+            "name": "Quest: Yeti Generic Drop"
+          },
+          {
+            "name": "Quest: Snowman Generic Drop"
+          },
+          {
+            "name": "Quest: Crab-Kin Generic Drop"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 495,
+            "y": 520,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Gear Specific Challenges",
+        "sections": [
+          {
+            "name": "Challenge Shields: Ammo Eater"
+          },
+          {
+            "name": "Challenge Shields: Amp It Up"
+          },
+          {
+            "name": "Challenge Shields: Super Novas"
+          },
+          {
+            "name": "Challenge Shields: Roid Rage"
+          },
+          {
+            "name": "Challenge Shields: Game of Thorns"
+          },
+          {
+            "name": "Challenge Grenade: Pull the Pin"
+          },
+          {
+            "name": "Challenge Grenade: Chemical Sprayer"
+          },
+          {
+            "name": "Challenge Grenade: Woah, Black Betty"
+          },
+          {
+            "name": "Challenge Grenade: EXPLOOOOOSIONS!"
+          },
+          {
+            "name": "Challenge Grenade: Singled Out"
+          },
+          {
+            "name": "Challenge Grenade: Health Vampire"
+          },
+          {
+            "name": "Challenge Pistol: Pistolero"
+          },
+          {
+            "name": "Challenge Pistol: Deadeye"
+          },
+          {
+            "name": "Challenge Pistol: The Killer"
+          },
+          {
+            "name": "Challenge Pistol: Quickdraw"
+          },
+          {
+            "name": "Challenge Pistol: Hard Boiled"
+          },
+          {
+            "name": "Challenge Shotgun: Shotgun Surgeon"
+          },
+          {
+            "name": "Challenge Shotgun: Faceful of Buckshot"
+          },
+          {
+            "name": "Challenge Shotgun: Shotgun!"
+          },
+          {
+            "name": "Challenge Shotgun: Shotgun Sniper"
+          },
+          {
+            "name": "Challenge Shotgun: Open Wide!"
+          },
+          {
+            "name": "Challenge Shotgun: Lock, Stock, and..."
+          },
+          {
+            "name": "Challenge SMG: High Rate of Ire"
+          },
+          {
+            "name": "Challenge SMG: Constructive Criticism"
+          },
+          {
+            "name": "Challenge SMG: Hail of Bullets"
+          },
+          {
+            "name": "Challenge SMG: More Like Submachine FUN"
+          },
+          {
+            "name": "Challenge Sniper: Longshot"
+          },
+          {
+            "name": "Challenge Sniper: No Scope, No Problem"
+          },
+          {
+            "name": "Challenge Sniper: Eviscerated"
+          },
+          {
+            "name": "Challenge Sniper: Surprise!"
+          },
+          {
+            "name": "Challenge Sniper: Snipe Hunting"
+          },
+          {
+            "name": "Challenge Sniper: Longshot Headshot"
+          },
+          {
+            "name": "Challenge Sniper: Leaf on the Second Wind"
+          },
+          {
+            "name": "Challenge AssaultRifle: ...This Is My Gun"
+          },
+          {
+            "name": "Challenge AssaultRifle: This Is My Rifle..."
+          },
+          {
+            "name": "Challenge AssaultRifle: Aggravated Assault"
+          },
+          {
+            "name": "Challenge AssaultRifle: Crouching Tiger, Hidden Assault Rifle"
+          },
+          {
+            "name": "Challenge AssaultRifle: From My Cold, Dead Hands"
+          },
+          {
+            "name": "Challenge Launcher: Rocket and Roll"
+          },
+          {
+            "name": "Challenge Launcher: Catch-a-Rocket!"
+          },
+          {
+            "name": "Challenge Launcher: Shield Basher"
+          },
+          {
+            "name": "Challenge Launcher: Sky Rockets in Flight..."
+          },
+          {
+            "name": "Challenge Launcher: Splish Splash"
+          },
+          {
+            "name": "Challenge Launcher: Gone with the Second Wind"
+          },
+          {
+            "name": "Challenge Elemental: Slag-Licked"
+          },
+          {
+            "name": "Challenge Elemental: Corroderate"
+          },
+          {
+            "name": "Challenge Elemental: I Just Want to Set the World on Fire"
+          },
+          {
+            "name": "Challenge Elemental: Say 'Watt' Again"
+          },
+          {
+            "name": "Challenge Elemental: Acid Trip"
+          },
+          {
+            "name": "Challenge Elemental: Boom."
+          },
+          {
+            "name": "Challenge Elemental: Cowering Inferno"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 480,
+            "y": 520,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Misc Combat Challenges",
+        "sections": [
+          {
+            "name": "Challenge Combat: Not Full of Monkeys"
+          },
+          {
+            "name": "Challenge Combat: Knee-Deep in Brass"
+          },
+          {
+            "name": "Challenge Combat: Afternoon Delight"
+          },
+          {
+            "name": "Challenge Combat: ...I Got to Boogie"
+          },
+          {
+            "name": "Challenge Combat: Critical Acclaim"
+          },
+          {
+            "name": "Challenge Combat: ...To Pay the Bills"
+          },
+          {
+            "name": "Challenge Combat: Gun Slinger"
+          },
+          {
+            "name": "Challenge Combat: Boomerbang"
+          },
+          {
+            "name": "Challenge Melee: Fisticuffs!"
+          },
+          {
+            "name": "Challenge Melee: A Squall of Violence"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 525,
+            "y": 520,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Enemy Specific Challenges",
+        "sections": [
+          {
+            "name": "Challenge Enemies: Cruising for a Bruising"
+          },
+          {
+            "name": "Challenge Enemies: Bully the Bullies"
+          },
+          {
+            "name": "Challenge Enemies: Constructor Destructor"
+          },
+          {
+            "name": "Challenge Enemies: Crystals Are a Girl's Best Friend"
+          },
+          {
+            "name": "Challenge Enemies: Paingineering"
+          },
+          {
+            "name": "Challenge Enemies: WHY SO MUCH HURT?!"
+          },
+          {
+            "name": "Challenge Enemies: Die in the Friendly Skies"
+          },
+          {
+            "name": "Challenge Enemies: Load and Lock"
+          },
+          {
+            "name": "Challenge Enemies: Marauder? I Hardly Know 'Er!"
+          },
+          {
+            "name": "Challenge Enemies: Little Person, Big Pain"
+          },
+          {
+            "name": "Challenge Enemies: You (No)Mad, Bro?"
+          },
+          {
+            "name": "Challenge Enemies: Mama's Boys"
+          },
+          {
+            "name": "Challenge Enemies: You Dirty Rat"
+          },
+          {
+            "name": "Challenge Enemies: Skags to Riches"
+          },
+          {
+            "name": "Challenge Enemies: Pest Control"
+          },
+          {
+            "name": "Challenge Enemies: You're One Ugly Mother..."
+          },
+          {
+            "name": "Challenge Enemies: Just a Moment of Your Time..."
+          },
+          {
+            "name": "Challenge Enemies: Tentacle Obsession"
+          },
+          {
+            "name": "Challenge Enemies: Another Bug Hunt"
+          },
+          {
+            "name": "Challenge Enemies: Pod Pew Pew"
+          },
+          {
+            "name": "Challenge Enemies: Short-Chained"
+          },
+          {
+            "name": "Challenge Enemies: Hurly Burly"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 510,
+            "y": 520,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Misc Challenges",
+        "sections": [
+          {
+            "name": "Challenge Money: Whaddaya Buyin'?"
+          },
+          {
+            "name": "Challenge Money: For the Hoard!"
+          },
+          {
+            "name": "Challenge Money: Limited-Time Offer"
+          },
+          {
+            "name": "Challenge Money: Wholesale"
+          },
+          {
+            "name": "Challenge Money: Dolla Dolla Bills, Y'all"
+          },
+          {
+            "name": "Challenge Money: Psst, Hey Buddy..."
+          },
+          {
+            "name": "Challenge Loot: The Call of Booty"
+          },
+          {
+            "name": "Challenge Loot: Open Pandora's Boxes"
+          },
+          {
+            "name": "Challenge Loot: Gun Runner"
+          },
+          {
+            "name": "Challenge Loot: I Like My Treasure Rare"
+          },
+          {
+            "name": "Challenge Loot: It's Not Easy Looting Green"
+          },
+          {
+            "name": "Challenge Loot: Nothing Rhymes with Orange"
+          },
+          {
+            "name": "Challenge Loot: Purple Reign"
+          },
+          {
+            "name": "Challenge Loot: Another Man's Treasure"
+          },
+          {
+            "name": "Challenge Misc: Yo Dawg, I Heard You Like Challenges"
+          },
+          {
+            "name": "Challenge Misc: JEEEEENKINSSSSSS!!!"
+          },
+          {
+            "name": "Challenge Misc: Compl33tionist"
+          },
+          {
+            "name": "Challenge Misc: Sidejacked"
+          },
+          {
+            "name": "Challenge Misc: Haters Gonna Hate"
+          },
+          {
+            "name": "Challenge Recovery: This Is No Time for Lazy!"
+          },
+          {
+            "name": "Challenge Recovery: Heal Plz"
+          },
+          {
+            "name": "Challenge Recovery: I'll Just Help Myself"
+          },
+          {
+            "name": "Challenge Recovery: Badass Bingo"
+          },
+          {
+            "name": "Challenge Recovery: Green Meanie"
+          },
+          {
+            "name": "Challenge Recovery: Death, Wind, and Fire"
+          },
+          {
+            "name": "Challenge Recovery: I'm Back! Shocked?"
+          },
+          {
+            "name": "Challenge Vehicles: Blue Sparks"
+          },
+          {
+            "name": "Challenge Vehicles: Hit-and-Fun"
+          },
+          {
+            "name": "Challenge Vehicles: Passive Aggressive"
+          },
+          {
+            "name": "Challenge Vehicles: Turret Syndrome"
+          },
+          {
+            "name": "Challenge Vehicles: One Van Leaves"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 540,
+            "y": 520,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Gear Pickups",
+        "sections": [
+          {
+            "name": "Quest: Common Shield Found"
+          },
+          {
+            "name": "Quest: Uncommon Shield Found"
+          },
+          {
+            "name": "Quest: Rare Shield Found"
+          },
+          {
+            "name": "Quest: VeryRare Shield Found"
+          },
+          {
+            "name": "Quest: Legendary Shield Found"
+          },
+          {
+            "name": "Quest: Seraph Shield Found"
+          },
+          {
+            "name": "Quest: Rainbow Shield Found"
+          },
+          {
+            "name": "Quest: Unique Shield Found"
+          },
+          {
+            "name": "Quest: Common Grenade Mod Found"
+          },
+          {
+            "name": "Quest: Uncommon Grenade Mod Found"
+          },
+          {
+            "name": "Quest: Rare Grenade Mod Found"
+          },
+          {
+            "name": "Quest: VeryRare Grenade Mod Found"
+          },
+          {
+            "name": "Quest: Legendary Grenade Mod Found"
+          },
+          {
+            "name": "Quest: Seraph Grenade Mod Found"
+          },
+          {
+            "name": "Quest: Rainbow Grenade Mod Found"
+          },
+          {
+            "name": "Quest: Unique Grenade Mod Found"
+          },
+          {
+            "name": "Quest: Common Class Mod Found"
+          },
+          {
+            "name": "Quest: Uncommon Class Mod Found"
+          },
+          {
+            "name": "Quest: Rare Class Mod Found"
+          },
+          {
+            "name": "Quest: VeryRare Class Mod Found"
+          },
+          {
+            "name": "Quest: Legendary Class Mod Found"
+          },
+          {
+            "name": "Quest: Common Relic Found"
+          },
+          {
+            "name": "Quest: Uncommon Relic Found"
+          },
+          {
+            "name": "Quest: Rare Relic Found"
+          },
+          {
+            "name": "Quest: VeryRare Relic Found"
+          },
+          {
+            "name": "Quest: E-Tech Relic Found"
+          },
+          {
+            "name": "Quest: Seraph Relic Found"
+          },
+          {
+            "name": "Quest: Rainbow Relic Found"
+          },
+          {
+            "name": "Quest: Unique Relic Found"
+          },
+          {
+            "name": "Quest: Common Pistol Found"
+          },
+          {
+            "name": "Quest: Uncommon Pistol Found"
+          },
+          {
+            "name": "Quest: Rare Pistol Found"
+          },
+          {
+            "name": "Quest: VeryRare Pistol Found"
+          },
+          {
+            "name": "Quest: E-Tech Pistol Found"
+          },
+          {
+            "name": "Quest: Legendary Pistol Found"
+          },
+          {
+            "name": "Quest: Seraph Pistol Found"
+          },
+          {
+            "name": "Quest: Pearlescent Pistol Found"
+          },
+          {
+            "name": "Quest: Unique Pistol Found"
+          },
+          {
+            "name": "Quest: Common Shotgun Found"
+          },
+          {
+            "name": "Quest: Uncommon Shotgun Found"
+          },
+          {
+            "name": "Quest: Rare Shotgun Found"
+          },
+          {
+            "name": "Quest: VeryRare Shotgun Found"
+          },
+          {
+            "name": "Quest: E-Tech Shotgun Found"
+          },
+          {
+            "name": "Quest: Legendary Shotgun Found"
+          },
+          {
+            "name": "Quest: Seraph Shotgun Found"
+          },
+          {
+            "name": "Quest: Rainbow Shotgun Found"
+          },
+          {
+            "name": "Quest: Pearlescent Shotgun Found"
+          },
+          {
+            "name": "Quest: Unique Shotgun Found"
+          },
+          {
+            "name": "Quest: Common SMG Found"
+          },
+          {
+            "name": "Quest: Uncommon SMG Found"
+          },
+          {
+            "name": "Quest: Rare SMG Found"
+          },
+          {
+            "name": "Quest: VeryRare SMG Found"
+          },
+          {
+            "name": "Quest: E-Tech SMG Found"
+          },
+          {
+            "name": "Quest: Legendary SMG Found"
+          },
+          {
+            "name": "Quest: Seraph SMG Found"
+          },
+          {
+            "name": "Quest: Rainbow SMG Found"
+          },
+          {
+            "name": "Quest: Pearlescent SMG Found"
+          },
+          {
+            "name": "Quest: Unique SMG Found"
+          },
+          {
+            "name": "Quest: Common Sniper Rifle Found"
+          },
+          {
+            "name": "Quest: Uncommon Sniper Rifle Found"
+          },
+          {
+            "name": "Quest: Rare Sniper Rifle Found"
+          },
+          {
+            "name": "Quest: VeryRare Sniper Rifle Found"
+          },
+          {
+            "name": "Quest: E-Tech Sniper Rifle Found"
+          },
+          {
+            "name": "Quest: Legendary Sniper Rifle Found"
+          },
+          {
+            "name": "Quest: Seraph Sniper Rifle Found"
+          },
+          {
+            "name": "Quest: Rainbow Sniper Rifle Found"
+          },
+          {
+            "name": "Quest: Pearlescent Sniper Rifle Found"
+          },
+          {
+            "name": "Quest: Unique Sniper Rifle Found"
+          },
+          {
+            "name": "Quest: Common Assault Rifle Found"
+          },
+          {
+            "name": "Quest: Uncommon Assault Rifle Found"
+          },
+          {
+            "name": "Quest: Rare Assault Rifle Found"
+          },
+          {
+            "name": "Quest: VeryRare Assault Rifle Found"
+          },
+          {
+            "name": "Quest: E-Tech Assault Rifle Found"
+          },
+          {
+            "name": "Quest: Legendary Assault Rifle Found"
+          },
+          {
+            "name": "Quest: Seraph Assault Rifle Found"
+          },
+          {
+            "name": "Quest: Rainbow Assault Rifle Found"
+          },
+          {
+            "name": "Quest: Pearlescent Assault Rifle Found"
+          },
+          {
+            "name": "Quest: Unique Assault Rifle Found"
+          },
+          {
+            "name": "Quest: Common Rocket Launcher Found"
+          },
+          {
+            "name": "Quest: Uncommon Rocket Launcher Found"
+          },
+          {
+            "name": "Quest: Rare Rocket Launcher Found"
+          },
+          {
+            "name": "Quest: VeryRare Rocket Launcher Found"
+          },
+          {
+            "name": "Quest: E-Tech Rocket Launcher Found"
+          },
+          {
+            "name": "Quest: Legendary Rocket Launcher Found"
+          },
+          {
+            "name": "Quest: Seraph Rocket Launcher Found"
+          },
+          {
+            "name": "Quest: Rainbow Rocket Launcher Found"
+          },
+          {
+            "name": "Quest: Pearlescent Rocket Launcher Found"
+          },
+          {
+            "name": "Quest: Unique Rocket Launcher Found"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 465,
+            "y": 520,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Sanctuary Quests",
+        "sections": [
+          {
+            "name": "Quest: Plan B"
+          },
+          {
+            "name": "Quest: Rock, Paper, Genocide: Fire Weapons!"
+          },
+          {
+            "name": "Quest: Rock, Paper, Genocide: Shock Weapons!"
+          },
+          {
+            "name": "Quest: Rock, Paper, Genocide: Corrosive Weapons!"
+          },
+          {
+            "name": "Quest: Rock, Paper, Genocide: Slag Weapons!"
+          },
+          {
+            "name": "Quest: Claptrap's Secret Stash"
+          },
+          {
+            "name": "Quest: Do No Harm"
+          },
+          {
+            "name": "Quest: Medical Mystery"
+          },
+          {
+            "name": "Quest: Assassinate the Assassins"
+          },
+          {
+            "name": "Quest: Hunting the Firehawk"
+          },
+          {
+            "name": "Quest: In Memoriam"
+          },
+          {
+            "name": "Quest: Cult Following: Eternal Flame"
+          },
+          {
+            "name": "Quest: Splinter Group"
+          },
+          {
+            "name": "Quest: Mine, All Mine"
+          },
+          {
+            "name": "Quest: Mighty Morphin'"
+          },
+          {
+            "name": "Quest: A Train to Catch"
+          },
+          {
+            "name": "Quest: The Good, the Bad, and the Mordecai"
+          },
+          {
+            "name": "Quest: Rising Action"
+          },
+          {
+            "name": "Quest: Swallowed Whole"
+          },
+          {
+            "name": "Quest: Hidden Journals"
+          },
+          {
+            "name": "Quest: Torture Chairs"
+          },
+          {
+            "name": "Quest: Perfectly Peaceful"
+          },
+          {
+            "name": "Quest: Won't Get Fooled Again"
+          },
+          {
+            "name": "Quest: Clan War: Starting the War"
+          },
+          {
+            "name": "Quest: Safe and Sound"
+          },
+          {
+            "name": "Quest: The Cold Shoulder"
+          },
+          {
+            "name": "Quest: Slap-Happy"
+          },
+          {
+            "name": "Quest: Claptrap's Birthday Bash!"
+          },
+          {
+            "name": "Quest: The Overlooked: Medicine Man"
+          },
+          {
+            "name": "Quest: Wildlife Preservation"
+          },
+          {
+            "name": "Quest: Doctor's Orders"
+          },
+          {
+            "name": "Quest: Animal Rights"
+          },
+          {
+            "name": "Quest: Poetic License"
+          },
+          {
+            "name": "Quest: Rakkaholics Anonymous"
+          },
+          {
+            "name": "Quest: The Once and Future Slab"
+          },
+          {
+            "name": "Quest: The Bane"
+          },
+          {
+            "name": "Quest: Hell Hath No Fury"
+          },
+          {
+            "name": "Quest: Home Movies"
+          },
+          {
+            "name": "Quest: The Man Who Would Be Jack"
+          },
+          {
+            "name": "Quest: Where Angels Fear to Tread"
+          },
+          {
+            "name": "Quest: BFFs"
+          },
+          {
+            "name": "Quest: Bearer of Bad News"
+          },
+          {
+            "name": "Quest: Capture the Flags"
+          },
+          {
+            "name": "Quest: The Chosen One"
+          },
+          {
+            "name": "Quest: Monster Mash (Part 1)"
+          },
+          {
+            "name": "Quest: Monster Mash (Part 2)"
+          },
+          {
+            "name": "Quest: Monster Mash (Part 3)"
+          },
+          {
+            "name": "Quest: Toil and Trouble"
+          },
+          {
+            "name": "Quest: This Just In"
+          },
+          {
+            "name": "Quest: The Talon of God"
+          },
+          {
+            "name": "Quest: The Name Game"
+          },
+          {
+            "name": "Quest: You. Will. Die. (Seriously.)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 505,
+            "y": 212,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Sanctuary",
+        "sections": [
+          {
+            "name": "Chest : Roland's Armory"
+          },
+          {
+            "name": "Challenge : Jackpot!"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Rise of the Crimson Raiders"
+          },
+          {
+            "name": "Symbol : Rooftop"
+          },
+          {
+            "name": "Symbol : Moxxi's Corner"
+          },
+          {
+            "name": "Symbol : Trash Corner"
+          },
+          {
+            "name": "Symbol : Tire Corner"
+          },
+          {
+            "name": "Symbol : Parkour Door"
+          },
+          {
+            "name": "Vending  Crimson Raider Base: Guns"
+          },
+          {
+            "name": "Vending  Crimson Raider Base: Ammo"
+          },
+          {
+            "name": "Vending  Dr. Zed's: Ammo"
+          },
+          {
+            "name": "Vending  Dr. Zed's: Meds 1"
+          },
+          {
+            "name": "Vending  Dr. Zed's: Meds 2"
+          },
+          {
+            "name": "Vending  Marcus Munitions: Meds"
+          },
+          {
+            "name": "Vending  Marcus Munitions: Ammo"
+          },
+          {
+            "name": "Vending  Marcus Munitions: Guns"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 490,
+            "y": 212,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Windshear Waste",
+        "sections": [
+          {
+            "name": "Quest: My First Gun"
+          },
+          {
+            "name": "Quest: Blindsided"
+          },
+          {
+            "name": "Quest: Cleaning up the Berg"
+          },
+          {
+            "name": "Enemy: Knuckle Dragger"
+          },
+          {
+            "name": "Chest : Blindsided"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Claptrap's Closet"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 498,
+            "y": 441,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Southern Shelf",
+        "sections": [
+          {
+            "name": "Quest: This Town Ain't Big Enough"
+          },
+          {
+            "name": "Quest: Bad Hair Day"
+          },
+          {
+            "name": "Quest: Shielded Favors"
+          },
+          {
+            "name": "Quest: Symbiosis"
+          },
+          {
+            "name": "Quest: Handsome Jack Here!"
+          },
+          {
+            "name": "Quest: Best Minion Ever"
+          },
+          {
+            "name": "Quest: The Road to Sanctuary"
+          },
+          {
+            "name": "Enemy: Boom"
+          },
+          {
+            "name": "Enemy: Bewm"
+          },
+          {
+            "name": "Enemy: Captain Flynt"
+          },
+          {
+            "name": "Chest : Boom Bewm Elevator"
+          },
+          {
+            "name": "Chest : Gateway Harbor Shipwreck"
+          },
+          {
+            "name": "Chest : Captain Flynt's Chest"
+          },
+          {
+            "name": "Chest : Soaring Dragon Camp"
+          },
+          {
+            "name": "Challenge : Make Boom Go Boom"
+          },
+          {
+            "name": "Challenge : Fireproof"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Flynt's Ship"
+          },
+          {
+            "name": "Symbol : Safehouse"
+          },
+          {
+            "name": "Vending  Liars Berg: Guns"
+          },
+          {
+            "name": "Vending  Liars Berg: Ammo"
+          },
+          {
+            "name": "Vending  Liars Berg: Meds"
+          },
+          {
+            "name": "Vending  Safehouse: Meds"
+          },
+          {
+            "name": "Vending  The Soaring Dragon: Meds"
+          },
+          {
+            "name": "Vending  The Soaring Dragon: Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 455,
+            "y": 434,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Southern Shelf Bay",
+        "sections": [
+          {
+            "name": "Enemy: Midgemong"
+          },
+          {
+            "name": "Chest : Midgemong's Trunk"
+          },
+          {
+            "name": "Chest : Cove Ship"
+          },
+          {
+            "name": "Challenge : I Can See Your Corpse from Here!"
+          },
+          {
+            "name": "Challenge : Vault Hunter on Wire"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Midgemong Has No Friends"
+          },
+          {
+            "name": "Symbol : Blackburn Cove Corner"
+          },
+          {
+            "name": "Symbol : Ice Flows Shipwreck"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Blackburn Cove: Guns"
+          },
+          {
+            "name": "Vending  Blackburn Cove: Ammo"
+          },
+          {
+            "name": "Vending  Blackburn Cove: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 428,
+            "y": 481,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Three Horns Divide",
+        "sections": [
+          {
+            "name": "Enemy: Savage Lee"
+          },
+          {
+            "name": "Enemy: Boll"
+          },
+          {
+            "name": "Chest : Windbreak Car Trunk"
+          },
+          {
+            "name": "Chest : Drydocks Upstairs"
+          },
+          {
+            "name": "Challenge : Man's Best Friends"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Drydocks Corner"
+          },
+          {
+            "name": "Symbol : Billboard"
+          },
+          {
+            "name": "Symbol : Windbreak Wall"
+          },
+          {
+            "name": "Vending  Starting Area: Ammo"
+          },
+          {
+            "name": "Vending  Starting Area: Meds"
+          },
+          {
+            "name": "Vending  Fast Travel Station: Guns"
+          },
+          {
+            "name": "Vending  Fast Travel Station: Ammo"
+          },
+          {
+            "name": "Vending  Fast Travel Station: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 466,
+            "y": 273,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Frostburn Canyon",
+        "sections": [
+          {
+            "name": "Quest: Cult Following: False Idols"
+          },
+          {
+            "name": "Quest: Cult Following: Lighting the Match"
+          },
+          {
+            "name": "Quest: Cult Following: The Enkindling"
+          },
+          {
+            "name": "Quest: A Dam Fine Rescue"
+          },
+          {
+            "name": "Enemy: Scorch"
+          },
+          {
+            "name": "Enemy: Incinerator Clayton"
+          },
+          {
+            "name": "Enemy: Spycho"
+          },
+          {
+            "name": "Chest : Ashmouth Camp"
+          },
+          {
+            "name": "Chest : Above Spawn"
+          },
+          {
+            "name": "Chest : Spycho Area"
+          },
+          {
+            "name": "Chest : After Firehawk"
+          },
+          {
+            "name": "Challenge : Totems of Fire"
+          },
+          {
+            "name": "Challenge : Praise Be to Scorch"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Burning Sensation"
+          },
+          {
+            "name": "Symbol : Blisterpus Cave"
+          },
+          {
+            "name": "Symbol : Ashmouth Pit"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Firehawk Lair: Ammo"
+          },
+          {
+            "name": "Vending  Firehawk Lair: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 528,
+            "y": 337,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Three Horns Valley",
+        "sections": [
+          {
+            "name": "Quest: Medical Mystery: X-Com-municate"
+          },
+          {
+            "name": "Quest: No Vacancy"
+          },
+          {
+            "name": "Quest: Neither Rain nor Sleet nor Skags"
+          },
+          {
+            "name": "Quest: The Ice Man Cometh"
+          },
+          {
+            "name": "Quest: Bright Lights, Flying City"
+          },
+          {
+            "name": "Enemy: Doc Mercy"
+          },
+          {
+            "name": "Enemy: Bad Maw"
+          },
+          {
+            "name": "Chest : Split Skull Bay Trunk"
+          },
+          {
+            "name": "Challenge : This Ain't My First Rodeo"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Slums Wall"
+          },
+          {
+            "name": "Symbol : Frostsprings Wall"
+          },
+          {
+            "name": "Symbol : Frostsprings Shack"
+          },
+          {
+            "name": "Vending  Happy Pig Motel: Guns"
+          },
+          {
+            "name": "Vending  Happy Pig Motel: Ammo"
+          },
+          {
+            "name": "Vending  Happy Pig Motel: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 390,
+            "y": 277,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Southpaw Steam & Power",
+        "sections": [
+          {
+            "name": "Enemy: Assassin Oney"
+          },
+          {
+            "name": "Enemy: Assassin Wot"
+          },
+          {
+            "name": "Enemy: Assassin Reeth"
+          },
+          {
+            "name": "Enemy: Assassin Rouf"
+          },
+          {
+            "name": "Chest : After Rouf"
+          },
+          {
+            "name": "Chest : After Oney"
+          },
+          {
+            "name": "Challenge : Boss Run"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Before Oney Parkour"
+          },
+          {
+            "name": "Symbol : Reeth Area Engine"
+          },
+          {
+            "name": "Symbol : Entry Area Ladder"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 378,
+            "y": 325,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "The Dust",
+        "sections": [
+          {
+            "name": "Quest: Positive Self Image"
+          },
+          {
+            "name": "Quest: Too Close For Missiles"
+          },
+          {
+            "name": "Quest: Clan War: Reach the Dead Drop"
+          },
+          {
+            "name": "Quest: Clan War: Trailer Trashing"
+          },
+          {
+            "name": "Quest: Clan War: Wakey Wakey"
+          },
+          {
+            "name": "Quest: Clan War: Zafords vs. Hodunks"
+          },
+          {
+            "name": "Enemy: Gettle"
+          },
+          {
+            "name": "Enemy: Mobley"
+          },
+          {
+            "name": "Enemy: Black Queen"
+          },
+          {
+            "name": "Enemy: McNally"
+          },
+          {
+            "name": "Enemy: Mick or Tector"
+          },
+          {
+            "name": "Chest : Goose's Roost Volleyball Net"
+          },
+          {
+            "name": "Challenge : I've Got a Crush on You"
+          },
+          {
+            "name": "Challenge : The Van Is Damned"
+          },
+          {
+            "name": "Challenge : If You're Not First, You're Last"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Dust to Dust"
+          },
+          {
+            "name": "Symbol : Speedway Wall"
+          },
+          {
+            "name": "Symbol : Buzzard Pad"
+          },
+          {
+            "name": "Symbol : Moonshiner Lid"
+          },
+          {
+            "name": "Vending  Ellies Garage: Meds"
+          },
+          {
+            "name": "Vending  Ellies Garage: Ammo"
+          },
+          {
+            "name": "Vending  Hodunk Speedway: Ammo"
+          },
+          {
+            "name": "Vending  Hodunk Speedway: Meds"
+          },
+          {
+            "name": "Vending  Steve: Ammo"
+          },
+          {
+            "name": "Vending  Steve: Meds"
+          },
+          {
+            "name": "Vending  Old Dahlwell Oasis: Meds"
+          },
+          {
+            "name": "Vending  Old Dahlwell Oasis: Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 332,
+            "y": 128,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Bloodshot Stronghold",
+        "sections": [
+          {
+            "name": "Quest: Out of Body Experience"
+          },
+          {
+            "name": "Enemy: Mad Mike"
+          },
+          {
+            "name": "Enemy: Dan"
+          },
+          {
+            "name": "Enemy: Lee"
+          },
+          {
+            "name": "Enemy: Mick"
+          },
+          {
+            "name": "Enemy: Ralph"
+          },
+          {
+            "name": "Enemy: Flinter"
+          },
+          {
+            "name": "Chest : Electric Gate"
+          },
+          {
+            "name": "Chest : Jail Cell"
+          },
+          {
+            "name": "Chest : Flinter's Room"
+          },
+          {
+            "name": "Challenge : Eff Yo' Couch"
+          },
+          {
+            "name": "Challenge : Cut 'Em No Slack"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Give It a Whirl"
+          },
+          {
+            "name": "Challenge : Bloodshot Memories"
+          },
+          {
+            "name": "Symbol : Pizza Intercom"
+          },
+          {
+            "name": "Symbol : Switch Room"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 344,
+            "y": 298,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Bloodshot Ramparts",
+        "sections": [
+          {
+            "name": "Enemy: W4R-D3N"
+          },
+          {
+            "name": "Chest : Car Junkyard Trunk"
+          },
+          {
+            "name": "Chest : W4R-D3N Trunk"
+          },
+          {
+            "name": "Challenge : The Last Place You Look"
+          },
+          {
+            "name": "Challenge : The Not-So-Phantom Tollbooth"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Marcus Sacrifice"
+          },
+          {
+            "name": "Symbol : Ramp"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 318,
+            "y": 285,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Friendship Gulag",
+        "sections": [
+          {
+            "name": "Chest : Carson Cell"
+          },
+          {
+            "name": "Chest : Gulag Awning"
+          },
+          {
+            "name": "Challenge : In the Middle of the Night"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Gulag Container"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 261,
+            "y": 125,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Tundra Express",
+        "sections": [
+          {
+            "name": "Quest: No Hard Feelings"
+          },
+          {
+            "name": "Quest: You Are Cordially Invited: Party Prep"
+          },
+          {
+            "name": "Quest: You Are Cordially Invited: RSVP"
+          },
+          {
+            "name": "Quest: You Are Cordially Invited: Tea Party"
+          },
+          {
+            "name": "Quest: The Pretty Good Train Robbery"
+          },
+          {
+            "name": "Enemy: Madame Von Bartlesby"
+          },
+          {
+            "name": "Enemy: Prospector Zeke"
+          },
+          {
+            "name": "Enemy: Vermivorous the Invincible"
+          },
+          {
+            "name": "Chest : Mount Molehill Mine Top"
+          },
+          {
+            "name": "Chest : Varkid Ranch Observatory"
+          },
+          {
+            "name": "Chest : South Western"
+          },
+          {
+            "name": "Challenge : Bug Off"
+          },
+          {
+            "name": "Challenge : What's Yours Is Mine"
+          },
+          {
+            "name": "Challenge : Positive Reinforcements"
+          },
+          {
+            "name": "Challenge : King of the Buzzard World"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Fork Shack"
+          },
+          {
+            "name": "Symbol : Facility Roof"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Tiny Tinas Workshop: Ammo"
+          },
+          {
+            "name": "Vending  Old Man Johnsons Farm: Guns"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 410,
+            "y": 228,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "End Of The Line",
+        "sections": [
+          {
+            "name": "Enemy: Wilhelm"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Master of All He Surveys"
+          },
+          {
+            "name": "Symbol : Wilhelm Wall"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 419,
+            "y": 194,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "The Fridge",
+        "sections": [
+          {
+            "name": "Quest: Note for Self-Person"
+          },
+          {
+            "name": "Enemy: Rakkman"
+          },
+          {
+            "name": "Enemy: SmashHead"
+          },
+          {
+            "name": "Enemy: Shorty"
+          },
+          {
+            "name": "Enemy: Sinkhole"
+          },
+          {
+            "name": "Enemy: Laney White"
+          },
+          {
+            "name": "Enemy: Bloody (Laney Midget)"
+          },
+          {
+            "name": "Enemy: Crabby (Laney Midget)"
+          },
+          {
+            "name": "Enemy: Creepy (Laney Midget)"
+          },
+          {
+            "name": "Enemy: Dirty (Laney Midget)"
+          },
+          {
+            "name": "Enemy: Greedy (Laney Midget)"
+          },
+          {
+            "name": "Enemy: Sleazy (Laney Midget)"
+          },
+          {
+            "name": "Enemy: Tipsy (Laney Midget)"
+          },
+          {
+            "name": "Chest : Rakkman's Lair"
+          },
+          {
+            "name": "Chest : Stalker Hollow"
+          },
+          {
+            "name": "Chest : Three Switch Electric Gate"
+          },
+          {
+            "name": "Chest : Smashhead's Cave"
+          },
+          {
+            "name": "Challenge : Stiff Competition"
+          },
+          {
+            "name": "Challenge : Trapped Rat"
+          },
+          {
+            "name": "Challenge : Fairest of Them All"
+          },
+          {
+            "name": "Challenge : It's Off to Hell We Go"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : The Rakk Knight"
+          },
+          {
+            "name": "Symbol : Secret Stash"
+          },
+          {
+            "name": "Symbol : Sheetmetal Roof"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Exit Elevator: Ammo"
+          },
+          {
+            "name": "Vending  Exit Elevator: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 321,
+            "y": 317,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Fink's Slaughterhouse",
+        "sections": [
+          {
+            "name": "Quest: Bandit Slaughter: Round 1"
+          },
+          {
+            "name": "Quest: Bandit Slaughter: Round 2"
+          },
+          {
+            "name": "Quest: Bandit Slaughter: Round 3"
+          },
+          {
+            "name": "Quest: Bandit Slaughter: Round 4"
+          },
+          {
+            "name": "Quest: Bandit Slaughter: Round 5"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Column"
+          },
+          {
+            "name": "Vending  Entrance: Guns"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 330,
+            "y": 347,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "The Highlands: Outwash",
+        "sections": [
+          {
+            "name": "Enemy: Old Slappy"
+          },
+          {
+            "name": "Enemy: Gluttonous Thresher"
+          },
+          {
+            "name": "Chest : Old Slappy Tower"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 283,
+            "y": 318,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "The Highlands",
+        "sections": [
+          {
+            "name": "Quest: Arms Dealing"
+          },
+          {
+            "name": "Quest: Stalker of Stalkers"
+          },
+          {
+            "name": "Quest: Best Mother's Day Ever"
+          },
+          {
+            "name": "Quest: The Overlooked: Shields Up"
+          },
+          {
+            "name": "Quest: The Overlooked: This Is Only a Test"
+          },
+          {
+            "name": "Quest: Hyperion Contract #873"
+          },
+          {
+            "name": "Enemy: Henry"
+          },
+          {
+            "name": "Chest : Blake Bridge Fall"
+          },
+          {
+            "name": "Challenge : Winds of the Highlands"
+          },
+          {
+            "name": "Challenge : Failure to Communicate"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Highlands Tower"
+          },
+          {
+            "name": "Vending  Bridge: Ammo"
+          },
+          {
+            "name": "Vending  Bridge: Meds"
+          },
+          {
+            "name": "Vending  Overlook: Guns"
+          },
+          {
+            "name": "Vending  Overlook: Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 215,
+            "y": 275,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "The Holy Spirits",
+        "sections": [
+          {
+            "name": "Quest: Clan War: First Place"
+          },
+          {
+            "name": "Quest: Clan War: End of the Rainbow"
+          },
+          {
+            "name": "Enemy: Bagman"
+          },
+          {
+            "name": "Chest : The Stash"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Bathroom"
+          },
+          {
+            "name": "Vending  Holy Spirits: Guns"
+          },
+          {
+            "name": "Vending  Holy Spirits: Ammo"
+          },
+          {
+            "name": "Vending  Holy Spirits: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 200,
+            "y": 275,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Wildlife Exploitation Preserve",
+        "sections": [
+          {
+            "name": "Enemy: Tumbaa"
+          },
+          {
+            "name": "Enemy: Pimon"
+          },
+          {
+            "name": "Enemy: Son of Mothrakk"
+          },
+          {
+            "name": "Enemy: Bloodwing"
+          },
+          {
+            "name": "Chest : Observation Wing #1"
+          },
+          {
+            "name": "Chest : Dockyard"
+          },
+          {
+            "name": "Chest : Loot Midget Room"
+          },
+          {
+            "name": "Chest : Observation Wing #2"
+          },
+          {
+            "name": "Chest : Mordy's Secret Stash"
+          },
+          {
+            "name": "Challenge : Mordy's Secret Stashes"
+          },
+          {
+            "name": "Challenge : Bear Minimum"
+          },
+          {
+            "name": "Challenge : Ride Together, Die Together"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Siren's Song"
+          },
+          {
+            "name": "Symbol : Dockyard Roof"
+          },
+          {
+            "name": "Symbol : Broken Boulevard"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Halfway: Ammo"
+          },
+          {
+            "name": "Vending  Halfway: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 265,
+            "y": 359,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Natural Selection Annex",
+        "sections": [
+          {
+            "name": "Quest: Creature Slaughter: Round 1"
+          },
+          {
+            "name": "Quest: Creature Slaughter: Round 2"
+          },
+          {
+            "name": "Quest: Creature Slaughter: Round 3"
+          },
+          {
+            "name": "Quest: Creature Slaughter: Round 4"
+          },
+          {
+            "name": "Quest: Creature Slaughter: Round 5"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Crate Ceiling"
+          },
+          {
+            "name": "Vending  Natural Selection Annex: Ammo"
+          },
+          {
+            "name": "Vending  Natural Selection Annex: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 301,
+            "y": 425,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Opportunity",
+        "sections": [
+          {
+            "name": "Quest: Written by the Victor"
+          },
+          {
+            "name": "Quest: Statuesque"
+          },
+          {
+            "name": "Enemy: Foreman Jasper"
+          },
+          {
+            "name": "Enemy: Jack's Body Double"
+          },
+          {
+            "name": "Chest : Home Movies Crate"
+          },
+          {
+            "name": "Chest : Home Movies Upload Room"
+          },
+          {
+            "name": "Chest : Voice Modulator Room"
+          },
+          {
+            "name": "Chest : Orbital Delivery Zone"
+          },
+          {
+            "name": "Chest : Southern Construction Site"
+          },
+          {
+            "name": "Chest : Random Rooftop"
+          },
+          {
+            "name": "Challenge : Shame the Foreman"
+          },
+          {
+            "name": "Challenge : Top o the World"
+          },
+          {
+            "name": "Challenge : Down With Big, Handsome Brother"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Opportunity Knocks"
+          },
+          {
+            "name": "Symbol : Construction Site"
+          },
+          {
+            "name": "Symbol : Office Bridge"
+          },
+          {
+            "name": "Vending  Entrance: Guns"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Hyperion Office Complex: Ammo"
+          },
+          {
+            "name": "Vending  Hyperion Office Complex: Meds"
+          },
+          {
+            "name": "Vending  Opportunity Square: Ammo"
+          },
+          {
+            "name": "Vending  Opportunity Square: Meds"
+          },
+          {
+            "name": "Vending  Residential Quarter: Guns"
+          },
+          {
+            "name": "Vending  Residential Quarter: Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 167,
+            "y": 390,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Thousand Cuts",
+        "sections": [
+          {
+            "name": "Quest: Shoot This Guy in the Face"
+          },
+          {
+            "name": "Quest: Rocko's Modern Strife"
+          },
+          {
+            "name": "Quest: Defend Slab Tower"
+          },
+          {
+            "name": "Enemy: GOD-liath"
+          },
+          {
+            "name": "Enemy: Sarcastic Slab"
+          },
+          {
+            "name": "Enemy: Face McShooty"
+          },
+          {
+            "name": "Chest : Slab UHF"
+          },
+          {
+            "name": "Chest : Buzzard Factory"
+          },
+          {
+            "name": "Chest : Control Core Loading Dock"
+          },
+          {
+            "name": "Chest : Super Badass Constructor"
+          },
+          {
+            "name": "Challenge : Slab UHF"
+          },
+          {
+            "name": "Challenge : A Grave Matter"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Portrait of the Gunzerker as a Young Man"
+          },
+          {
+            "name": "Symbol : Buzzard Factory"
+          },
+          {
+            "name": "Symbol : No Man's Land Shack"
+          },
+          {
+            "name": "Vending  Slab Town: Ammo"
+          },
+          {
+            "name": "Vending  Slab Town: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 175,
+            "y": 320,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "The Bunker and Angel",
+        "sections": [
+          {
+            "name": "Quest: Where Angels Fear to Tread (Part 2)"
+          },
+          {
+            "name": "Enemy: BNK-3R"
+          },
+          {
+            "name": "Chest : Back Room"
+          },
+          {
+            "name": "Chest : Marcus #1"
+          },
+          {
+            "name": "Chest : Marcus #2"
+          },
+          {
+            "name": "Chest : Marcus #3"
+          },
+          {
+            "name": "Challenge : BNK-3R Buster"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Backside"
+          },
+          {
+            "name": "Vending  Bunker: Ammo"
+          },
+          {
+            "name": "Vending  Bunker: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 121,
+            "y": 323,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Sanctuary Hole",
+        "sections": [
+          {
+            "name": "Chest : Generator Room"
+          },
+          {
+            "name": "Challenge : Down the Rabbit Hole"
+          },
+          {
+            "name": "Challenge : Sugar Shack"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Staircase Wall"
+          },
+          {
+            "name": "Vending  Sanctuary Hole: Ammo"
+          },
+          {
+            "name": "Vending  Sanctuary Hole: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 469,
+            "y": 205,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Caustic Caverns",
+        "sections": [
+          {
+            "name": "Quest: Minecart Mischief"
+          },
+          {
+            "name": "Enemy: Blue"
+          },
+          {
+            "name": "Enemy: Badass Creeper"
+          },
+          {
+            "name": "Chest : Treasure Chest"
+          },
+          {
+            "name": "Chest : Nether Hive"
+          },
+          {
+            "name": "Chest : Minecart Mischief"
+          },
+          {
+            "name": "Challenge : Harchek's Revenge"
+          },
+          {
+            "name": "Challenge : Ever Blow Bubbles...?"
+          },
+          {
+            "name": "Challenge : I Bet I Can Make It"
+          },
+          {
+            "name": "Challenge : Can't Feel A Thing"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Gravestone Feature"
+          },
+          {
+            "name": "Symbol : Bloody Ladder"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Shortcut: Guns"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 469,
+            "y": 190,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Lynchwood",
+        "sections": [
+          {
+            "name": "Quest: Breaking the Bank"
+          },
+          {
+            "name": "Quest: 310 to Kaboom"
+          },
+          {
+            "name": "Quest: Showdown"
+          },
+          {
+            "name": "Quest: Animal Rescue: Medicine"
+          },
+          {
+            "name": "Quest: Animal Rescue: Food"
+          },
+          {
+            "name": "Quest: Animal Rescue: Shelter"
+          },
+          {
+            "name": "Quest: Demon Hunter"
+          },
+          {
+            "name": "Enemy: Dukino's Mom"
+          },
+          {
+            "name": "Enemy: Mad Dog"
+          },
+          {
+            "name": "Enemy: Sheriff Nisha"
+          },
+          {
+            "name": "Enemy: Deputy Winger"
+          },
+          {
+            "name": "Chest : Mad Dog Trunk"
+          },
+          {
+            "name": "Chest : Gunslinger Top Trunk"
+          },
+          {
+            "name": "Chest : Outskirts Trunk"
+          },
+          {
+            "name": "Chest : Gunslinger Lower Trunk"
+          },
+          {
+            "name": "Challenge : Duel of Death"
+          },
+          {
+            "name": "Challenge : That's Impossible, Even for a Computer"
+          },
+          {
+            "name": "Challenge : Look Ma, No Hands"
+          },
+          {
+            "name": "Challenge : Last Train to Nowhere"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Do or Die"
+          },
+          {
+            "name": "Symbol : Gunslinger Roof"
+          },
+          {
+            "name": "Symbol : Main Street"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Gunslingers Corner: Guns"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 176,
+            "y": 198,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Eridium Blight",
+        "sections": [
+          {
+            "name": "Quest: A Real Boy: Clothes Make the Man"
+          },
+          {
+            "name": "Quest: A Real Boy: Face Time"
+          },
+          {
+            "name": "Quest: A Real Boy: Human"
+          },
+          {
+            "name": "Quest: Customer Service"
+          },
+          {
+            "name": "Quest: To Grandmother's House We Go"
+          },
+          {
+            "name": "Quest: Kill Yourself"
+          },
+          {
+            "name": "Enemy: King Mong"
+          },
+          {
+            "name": "Enemy: Donkey Mong"
+          },
+          {
+            "name": "Chest : Volcano Free"
+          },
+          {
+            "name": "Chest : Pipe Dreaming"
+          },
+          {
+            "name": "Chest : Eastern Chest"
+          },
+          {
+            "name": "Chest : Mount Hellsfont Trunk"
+          },
+          {
+            "name": "Chest : Infested Grotto Trunk"
+          },
+          {
+            "name": "Challenge : Can You Hear Me Now"
+          },
+          {
+            "name": "Challenge : Bring Out the Big Guns"
+          },
+          {
+            "name": "Challenge : Tie Clip"
+          },
+          {
+            "name": "Challenge : 'Twas Slag Killed the Beast"
+          },
+          {
+            "name": "Challenge : Pipe Dreaming"
+          },
+          {
+            "name": "Challenge : Save the Turrets"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Vault Hunter vs. The Volcano"
+          },
+          {
+            "name": "Symbol : Hellsfont Crate"
+          },
+          {
+            "name": "Symbol : Stairs Door"
+          },
+          {
+            "name": "Symbol : Refund Building"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Eridium Extraction Plant: Ammo"
+          },
+          {
+            "name": "Vending  Eridium Extraction Plant: Meds"
+          },
+          {
+            "name": "Vending  Slagma Refinery: Guns"
+          },
+          {
+            "name": "Vending  Slagma Refinery: Ammo"
+          },
+          {
+            "name": "Vending  Slagma Refinery: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 149,
+            "y": 151,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Ore Chasm",
+        "sections": [
+          {
+            "name": "Quest: Hyperion Slaughter: Round 1"
+          },
+          {
+            "name": "Quest: Hyperion Slaughter: Round 2"
+          },
+          {
+            "name": "Quest: Hyperion Slaughter: Round 3"
+          },
+          {
+            "name": "Quest: Hyperion Slaughter: Round 4"
+          },
+          {
+            "name": "Quest: Hyperion Slaughter: Round 5"
+          },
+          {
+            "name": "Symbol : Elevator"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Vending  Entrance: Guns"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 161,
+            "y": 77,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Sawtooth Cauldron",
+        "sections": [
+          {
+            "name": "Quest: The Great Escape"
+          },
+          {
+            "name": "Quest: The Lost Treasure"
+          },
+          {
+            "name": "Enemy: Mortar"
+          },
+          {
+            "name": "Chest : Smoking Guano Grotto Platform"
+          },
+          {
+            "name": "Chest : Avie's Camp"
+          },
+          {
+            "name": "Chest : Cramfists Foundry"
+          },
+          {
+            "name": "Chest : Mortars Elevator"
+          },
+          {
+            "name": "Challenge : Happy Camper"
+          },
+          {
+            "name": "Challenge : Race to the Top"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Haiku Hitman"
+          },
+          {
+            "name": "Symbol : Refinery Container"
+          },
+          {
+            "name": "Symbol : Elevator"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Elevator: Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 98,
+            "y": 208,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Arid Nexus: Boneyard",
+        "sections": [
+          {
+            "name": "Quest: Data Mining"
+          },
+          {
+            "name": "Enemy: Hunter Hellquist"
+          },
+          {
+            "name": "Chest : Eridium Pump Station 2"
+          },
+          {
+            "name": "Chest : Eridium Pump Station 3"
+          },
+          {
+            "name": "Challenge : Dead Air"
+          },
+          {
+            "name": "Challenge : Under Pressure"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Pipe"
+          },
+          {
+            "name": "Symbol : Safety"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 68,
+            "y": 482,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Arid Nexus: Badlands",
+        "sections": [
+          {
+            "name": "Quest: Uncle Teddy"
+          },
+          {
+            "name": "Quest: Get to Know Jack"
+          },
+          {
+            "name": "Quest: Hungry Like the Skag"
+          },
+          {
+            "name": "Enemy: Bone Head 2.0"
+          },
+          {
+            "name": "Enemy: Saturn"
+          },
+          {
+            "name": "Chest : Zed's Old Home"
+          },
+          {
+            "name": "Chest : Hyperion Info Stockade"
+          },
+          {
+            "name": "Chest : Hey! Over Here!"
+          },
+          {
+            "name": "Chest : Fyrestone Motel Roof"
+          },
+          {
+            "name": "Challenge : Boned"
+          },
+          {
+            "name": "Challenge : Hey! Over Here!"
+          },
+          {
+            "name": "Challenge : The Beginning of the End"
+          },
+          {
+            "name": "Vending  Fyrestone: Ammo"
+          },
+          {
+            "name": "Vending  Fyrestone: Meds"
+          },
+          {
+            "name": "Vending  TK Bahas House: Guns"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 71,
+            "y": 432,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Hero's Pass",
+        "sections": [
+          {
+            "name": "Chest : Volcano Entrance"
+          },
+          {
+            "name": "Challenge : When Nature Calls"
+          },
+          {
+            "name": "Challenge : Environmental Protection"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Strut"
+          },
+          {
+            "name": "Symbol : Spawn"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 226,
+            "y": 72,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Vault of the Warrior",
+        "sections": [
+          {
+            "name": "Enemy: Warrior"
+          },
+          {
+            "name": "Symbol : Elevator Bottom"
+          },
+          {
+            "name": "Vending  Fast Travel Station: Ammo"
+          },
+          {
+            "name": "Vending  Fast Travel Station: Meds"
+          },
+          {
+            "name": "Challenge : The Warrior's Way"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Dying of the Light"
+          },
+          {
+            "name": "Chest : Lava River Cave"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 295,
+            "y": 64,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Terramorphous Peak",
+        "sections": [
+          {
+            "name": "Enemy: Terramorphous the Invincible"
+          },
+          {
+            "name": "Chest : Terramorphous #1"
+          },
+          {
+            "name": "Chest : Terramorphous #2"
+          },
+          {
+            "name": "Challenge : Terramorphous the Not-So-Invincible"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Dropdown"
+          },
+          {
+            "name": "Symbol : Elevator"
+          },
+          {
+            "name": "Vending  Entrance: Guns"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 175,
+            "y": 305,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Digistruct Peak",
+        "sections": [
+          {
+            "name": "Quest: Dr. T and the Vault Hunters"
+          },
+          {
+            "name": "Quest: A History of Simulated Violence"
+          },
+          {
+            "name": "Quest: More History of Simulated Violence"
+          },
+          {
+            "name": "Chest : #1"
+          },
+          {
+            "name": "Chest : #2"
+          },
+          {
+            "name": "Chest : #3"
+          },
+          {
+            "name": "Chest : #4"
+          },
+          {
+            "name": "Chest : #5"
+          },
+          {
+            "name": "Chest : #6"
+          },
+          {
+            "name": "Chest : #7"
+          },
+          {
+            "name": "Chest : #8"
+          },
+          {
+            "name": "Chest : #9"
+          },
+          {
+            "name": "Vending  Entrance: Guns"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Butcher Base: Ammo"
+          },
+          {
+            "name": "Vending  Arena of Anguish: Ammo"
+          },
+          {
+            "name": "Vending  Arena of Anguish: Meds"
+          },
+          {
+            "name": "Vending  Tower of Torment: Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 254,
+            "y": 106,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Scarlett DLC Challenges",
+        "sections": [
+          {
+            "name": "Challenge : In The Pink"
+          },
+          {
+            "name": "Challenge : Land Lubber"
+          },
+          {
+            "name": "Challenge : Hovernator"
+          },
+          {
+            "name": "Challenge : Worm Killer"
+          },
+          {
+            "name": "Challenge : Pirate Booty"
+          },
+          {
+            "name": "Challenge : Shady Dealings"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 480,
+            "y": 505,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Oasis",
+        "sections": [
+          {
+            "name": "Quest: A Warm Welcome"
+          },
+          {
+            "name": "Quest: Fire Water"
+          },
+          {
+            "name": "Quest: Message in a Bottle 1 (Oasis)"
+          },
+          {
+            "name": "Quest: My Life For A Sandskiff"
+          },
+          {
+            "name": "Quest: Burying the Past"
+          },
+          {
+            "name": "Quest: Giving Jocko A Leg Up"
+          },
+          {
+            "name": "Quest: Man's Best Friend"
+          },
+          {
+            "name": "Quest: Wingman"
+          },
+          {
+            "name": "Quest: A Study in Scarlett"
+          },
+          {
+            "name": "Quest: Grendel"
+          },
+          {
+            "name": "Quest: Treasure of the Sands"
+          },
+          {
+            "name": "Quest: Hyperius the Invincible"
+          },
+          {
+            "name": "Quest: Master Gee the Invincible"
+          },
+          {
+            "name": "Enemy: No Beard"
+          },
+          {
+            "name": "Enemy: Tinkles"
+          },
+          {
+            "name": "Enemy: Benny the Booster"
+          },
+          {
+            "name": "Chest : Coral Island"
+          },
+          {
+            "name": "Chest : Horrid's Hideaway"
+          },
+          {
+            "name": "Chest : Canyon Deserter Camp #1"
+          },
+          {
+            "name": "Chest : Canyon Deserter Camp #2"
+          },
+          {
+            "name": "Challenge : I Ain't Afraid of Heights"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Horrid's Hideaway"
+          },
+          {
+            "name": "Symbol : Kronus"
+          },
+          {
+            "name": "Symbol : Lair Exit"
+          },
+          {
+            "name": "Symbol : Lionel Docks"
+          },
+          {
+            "name": "Symbol : Coral Island"
+          },
+          {
+            "name": "Vending  Oasis: Guns"
+          },
+          {
+            "name": "Vending  Oasis: Ammo"
+          },
+          {
+            "name": "Vending  Oasis: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 362,
+            "y": 90,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Wurmwater",
+        "sections": [
+          {
+            "name": "Quest: Message in a Bottle 2 (Wurmwater)"
+          },
+          {
+            "name": "Quest: Declaration Against Independents"
+          },
+          {
+            "name": "Quest: Ye Scurvy Dogs"
+          },
+          {
+            "name": "Quest: Smells Like Victory"
+          },
+          {
+            "name": "Quest: Two Easy Pieces"
+          },
+          {
+            "name": "Quest: Just Desserts for Desert Deserters"
+          },
+          {
+            "name": "Quest: The Hermit"
+          },
+          {
+            "name": "Quest: Catch-A-Ride, and Also Tetanus"
+          },
+          {
+            "name": "Quest: Faster Than the Speed of Love"
+          },
+          {
+            "name": "Quest: Let There Be Light"
+          },
+          {
+            "name": "Chest : Sand Worm Queen Pit"
+          },
+          {
+            "name": "Chest : The Dish Metal Hut"
+          },
+          {
+            "name": "Chest : The Washburne Fen Rocky Outcrop"
+          },
+          {
+            "name": "Chest : Refined Tastes"
+          },
+          {
+            "name": "Chest : Top o The Dish"
+          },
+          {
+            "name": "Chest : Old Murphys Canyon"
+          },
+          {
+            "name": "Chest : The Dish Symbol"
+          },
+          {
+            "name": "Challenge : Skiffless"
+          },
+          {
+            "name": "Challenge : Comb the Desert!"
+          },
+          {
+            "name": "Challenge : Refined Tastes"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Rustyard Corridor"
+          },
+          {
+            "name": "Symbol : Scarlett's Ship"
+          },
+          {
+            "name": "Symbol : The Dish"
+          },
+          {
+            "name": "Vending  Door to Oasis: Ammo"
+          },
+          {
+            "name": "Vending  Door to Oasis: Meds"
+          },
+          {
+            "name": "Vending  Old Murphys Canyon: Guns"
+          },
+          {
+            "name": "Vending  Old Murphys Canyon: Ammo"
+          },
+          {
+            "name": "Vending  The Washburne Fen: Ammo"
+          },
+          {
+            "name": "Vending  Scarlett's Ship: Guns"
+          },
+          {
+            "name": "Vending  Scarlett's Ship: Ammo"
+          },
+          {
+            "name": "Vending  Scarlett's Ship: Meds"
+          },
+          {
+            "name": "Vending  Rustyard Corridor: Guns"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 448,
+            "y": 109,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Hayter's Folly",
+        "sections": [
+          {
+            "name": "Quest: Message in a Bottle 3 (Hayter'sFolly)"
+          },
+          {
+            "name": "Enemy: Grendel"
+          },
+          {
+            "name": "Enemy: Sandman"
+          },
+          {
+            "name": "Enemy: Big Sleep"
+          },
+          {
+            "name": "Enemy: Deckhand"
+          },
+          {
+            "name": "Enemy: Master Gee"
+          },
+          {
+            "name": "Chest : Wet Reward #1"
+          },
+          {
+            "name": "Chest : Wet Reward #2"
+          },
+          {
+            "name": "Chest : Sandman's Overlook"
+          },
+          {
+            "name": "Chest : Sandman Arena"
+          },
+          {
+            "name": "Challenge : Playing Chicken in my Sleep"
+          },
+          {
+            "name": "Challenge : Wet Reward"
+          },
+          {
+            "name": "Challenge : Master of My Domain"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Master Worm Food"
+          },
+          {
+            "name": "Symbol : Hot Springs Crate"
+          },
+          {
+            "name": "Symbol : Grendel Exit"
+          },
+          {
+            "name": "Vending  Entrance: Guns"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Gees Arena: Ammo"
+          },
+          {
+            "name": "Vending  Gees Arena: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 423,
+            "y": 157,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Rustyards",
+        "sections": [
+          {
+            "name": "Quest: Message in a Bottle 4 (TheRustyards)"
+          },
+          {
+            "name": "Quest: Crazy About You"
+          },
+          {
+            "name": "Quest: Whoops"
+          },
+          {
+            "name": "Enemy: Toothless Terry"
+          },
+          {
+            "name": "Chest : 4th Audio Recording Ship"
+          },
+          {
+            "name": "Chest : Rusty Cog Settlement"
+          },
+          {
+            "name": "Chest : Maroonie's Clipper"
+          },
+          {
+            "name": "Chest : Crow's Nest"
+          },
+          {
+            "name": "Challenge : My Main Squeeze"
+          },
+          {
+            "name": "Challenge : Crow's Nest"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Maroonie's Clipper"
+          },
+          {
+            "name": "Symbol : Rustyards Fence"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 430,
+            "y": 78,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Washburne Refinery",
+        "sections": [
+          {
+            "name": "Quest: I Know It When I See It"
+          },
+          {
+            "name": "Quest: Don't Copy That Floppy"
+          },
+          {
+            "name": "Quest: Freedom of Speech"
+          },
+          {
+            "name": "Enemy: P3RV-E"
+          },
+          {
+            "name": "Enemy: H3RL-E"
+          },
+          {
+            "name": "Enemy: Hyperius"
+          },
+          {
+            "name": "Chest : Forge Array"
+          },
+          {
+            "name": "Chest : Arm Thyself"
+          },
+          {
+            "name": "Chest : H3Rl-E"
+          },
+          {
+            "name": "Challenge : I Get It for the Articles"
+          },
+          {
+            "name": "Challenge : Arm Thyself"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Hyperius the Not-So-Invincible"
+          },
+          {
+            "name": "Symbol : P3RV-E Lair"
+          },
+          {
+            "name": "Symbol : Forge Array"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Hyperius Arena: Ammo"
+          },
+          {
+            "name": "Vending  Hyperius Arena: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 369,
+            "y": 133,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Magnys Lighthouse",
+        "sections": [
+          {
+            "name": "Quest: Message In A Bottle 5 (MagnysLighthouse)"
+          },
+          {
+            "name": "Quest: X Marks The Spot"
+          },
+          {
+            "name": "Enemy: DJ Tanner"
+          },
+          {
+            "name": "Enemy: Mr. Bubbles"
+          },
+          {
+            "name": "Enemy: Lieutenant Hoffman (Pirate)"
+          },
+          {
+            "name": "Enemy: Lieutenant White (Pirate)"
+          },
+          {
+            "name": "Chest : Under A House"
+          },
+          {
+            "name": "Chest : AM-FM Isle"
+          },
+          {
+            "name": "Chest : Magnys Lighthouse Top #1"
+          },
+          {
+            "name": "Chest : Magnys Lighthouse Top #2"
+          },
+          {
+            "name": "Challenge : Maroonie's Inheritance"
+          },
+          {
+            "name": "Challenge : N00b Cannon"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : House"
+          },
+          {
+            "name": "Symbol : Lighthouse"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 405,
+            "y": 126,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Leviathan's Lair",
+        "sections": [
+          {
+            "name": "Enemy: Roscoe"
+          },
+          {
+            "name": "Enemy: The Leviathan"
+          },
+          {
+            "name": "Chest : Outer #1"
+          },
+          {
+            "name": "Chest : Outer #2"
+          },
+          {
+            "name": "Chest : Outer #3"
+          },
+          {
+            "name": "Chest : Outer #4"
+          },
+          {
+            "name": "Chest : Outer #5"
+          },
+          {
+            "name": "Chest : Outer #6"
+          },
+          {
+            "name": "Chest : Outer #7"
+          },
+          {
+            "name": "Chest : Inner #1"
+          },
+          {
+            "name": "Chest : Inner #2"
+          },
+          {
+            "name": "Chest : Inner #3"
+          },
+          {
+            "name": "Chest : Inner #4"
+          },
+          {
+            "name": "Chest : Inner #5"
+          },
+          {
+            "name": "Chest : Inner #6"
+          },
+          {
+            "name": "Chest : Lost Lost Treasure"
+          },
+          {
+            "name": "Challenge : Lost Lost Treasure"
+          },
+          {
+            "name": "Challenge : Bleeding Scarlett"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Lair"
+          },
+          {
+            "name": "Vending  Leviathans Body: Ammo"
+          },
+          {
+            "name": "Vending  Leviathans Body: Meds"
+          },
+          {
+            "name": "Vending  Leviathans Lair: Ammo"
+          },
+          {
+            "name": "Vending  Leviathans Lair: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 362,
+            "y": 75,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Torgue DLC Challenges",
+        "sections": [
+          {
+            "name": "Challenge : Torgue Items Purchased"
+          },
+          {
+            "name": "Challenge : Battles Completed"
+          },
+          {
+            "name": "Challenge : Bikers Killed"
+          },
+          {
+            "name": "Challenge : Bikes Destroyed"
+          },
+          {
+            "name": "Challenge : Torgue Tokens Acquired"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 495,
+            "y": 505,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Badass Crater",
+        "sections": [
+          {
+            "name": "Quest: Highway To Hell"
+          },
+          {
+            "name": "Quest: Welcome To The Jungle"
+          },
+          {
+            "name": "Quest: Eat Cookies and Crap Thunder"
+          },
+          {
+            "name": "Quest: Number One Fan"
+          },
+          {
+            "name": "Quest: Walking the Dog"
+          },
+          {
+            "name": "Quest: Matter Of Taste"
+          },
+          {
+            "name": "Quest: Monster Hunter"
+          },
+          {
+            "name": "Quest: Battle: The Death Race"
+          },
+          {
+            "name": "Quest: Tier 2 Battle: The Death Race"
+          },
+          {
+            "name": "Quest: Tier 3 Battle: The Death Race"
+          },
+          {
+            "name": "Quest: Tier 3 Rematch: The Death Race"
+          },
+          {
+            "name": "Quest: Get Your Motor Running"
+          },
+          {
+            "name": "Quest: Gas Guzzlers"
+          },
+          {
+            "name": "Chest : Beatdown Billboard"
+          },
+          {
+            "name": "Chest : Torgue Arena Billboard"
+          },
+          {
+            "name": "Chest : Fan Club"
+          },
+          {
+            "name": "Challenge : As Advertised"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Fan Club Membership"
+          },
+          {
+            "name": "Challenge : I Can Fly!"
+          },
+          {
+            "name": "Challenge : Only Shells I Need Are in My Guns"
+          },
+          {
+            "name": "Symbol : Badass Highway"
+          },
+          {
+            "name": "Symbol : Beatdown Door"
+          },
+          {
+            "name": "Symbol : Billboard Lower"
+          },
+          {
+            "name": "Symbol : Billboard Upper"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Town: Ammo"
+          },
+          {
+            "name": "Vending  Town: Meds"
+          },
+          {
+            "name": "Vending  Outside The Forge: Torgue Vendor"
+          },
+          {
+            "name": "Vending  Outside The Forge: Ammo"
+          },
+          {
+            "name": "Vending  Outside The Forge: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 256,
+            "y": 226,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Torgue Arena",
+        "sections": [
+          {
+            "name": "Quest: Battle: Appetite for Destruction"
+          },
+          {
+            "name": "Quest: Tier 2 Battle: Appetite for Destruction"
+          },
+          {
+            "name": "Quest: Tier 3 Battle: Appetite for Destruction"
+          },
+          {
+            "name": "Quest: Tier 3 Rematch: Appetite for Destruction"
+          },
+          {
+            "name": "Quest: Burn, Baby, Burn"
+          },
+          {
+            "name": "Enemy: Badassasaurus"
+          },
+          {
+            "name": "Enemy: Piston"
+          },
+          {
+            "name": "Chest : First Arena Ladder"
+          },
+          {
+            "name": "Chest : MAin'tenance Pipes"
+          },
+          {
+            "name": "Chest : Storage Area"
+          },
+          {
+            "name": "Chest : Final Arena Foyer"
+          },
+          {
+            "name": "Challenge : C4 Is For Cookie"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : It's Cool, I'm Part of the Crew"
+          },
+          {
+            "name": "Challenge : Are You Not Entertained?"
+          },
+          {
+            "name": "Challenge : Burnin' Ring of Fire"
+          },
+          {
+            "name": "Symbol : Arena Wall"
+          },
+          {
+            "name": "Symbol : Arena Ladder"
+          },
+          {
+            "name": "Vending  Entrance: Torgue Vendor"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 253,
+            "y": 211,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "The Beatdown",
+        "sections": [
+          {
+            "name": "Quest: Totally Recall"
+          },
+          {
+            "name": "Quest: Mother-Lover"
+          },
+          {
+            "name": "Enemy: Sully the Stabber"
+          },
+          {
+            "name": "Enemy: Hamhock"
+          },
+          {
+            "name": "Chest : Beatdown Rooftops"
+          },
+          {
+            "name": "Chest : Gun Emporeum Alley"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Underpass"
+          },
+          {
+            "name": "Symbol : School Bus"
+          },
+          {
+            "name": "Vending  Entrance: Torgue Vendor"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Gun Emporeum: Torgue Vendor"
+          },
+          {
+            "name": "Vending  Gun Emporeum: Ammo"
+          },
+          {
+            "name": "Vending  Gun Emporeum: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 200,
+            "y": 170,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Pyro Pete's Bar",
+        "sections": [
+          {
+            "name": "Quest: Battle: Bar Room Blitz"
+          },
+          {
+            "name": "Quest: Tier 2 Battle: Bar Room Blitz"
+          },
+          {
+            "name": "Quest: Tier 3 Battle: Bar Room Blitz"
+          },
+          {
+            "name": "Quest: Tier 3 Rematch: Bar Room Blitz"
+          },
+          {
+            "name": "Quest: Chop Suey"
+          },
+          {
+            "name": "Quest: A Montage"
+          },
+          {
+            "name": "Enemy: Pyro Pete"
+          },
+          {
+            "name": "Enemy: Pyro Pete the Invincible"
+          },
+          {
+            "name": "Chest : Moxxi Cell #1"
+          },
+          {
+            "name": "Chest : Moxxi Cell #2"
+          },
+          {
+            "name": "Challenge : I Thought You'd Be... Bigger"
+          },
+          {
+            "name": "Challenge : Pete the Invincible Defeated"
+          },
+          {
+            "name": "Vending  Pyro Petes Bar: Torgue Vendor"
+          },
+          {
+            "name": "Vending  Pyro Petes Bar: Ammo"
+          },
+          {
+            "name": "Vending  Pyro Petes Bar: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 215,
+            "y": 170,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Badass Crater Bar",
+        "sections": [
+          {
+            "name": "Quest: Breaking and Entering"
+          },
+          {
+            "name": "Quest: Long Way To The Top"
+          },
+          {
+            "name": "Quest: Everybody Wants to be Wanted"
+          },
+          {
+            "name": "Quest: Interview with a Vault Hunter"
+          },
+          {
+            "name": "Quest: Pete the Invincible"
+          },
+          {
+            "name": "Vending  Badass Crater Bar: Torgue Vendor"
+          },
+          {
+            "name": "Vending  Badass Crater Bar: Ammo"
+          },
+          {
+            "name": "Vending  Badass Crater Bar: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 241,
+            "y": 192,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Southern Raceway",
+        "sections": [
+          {
+            "name": "Enemy: Buff Gamer"
+          },
+          {
+            "name": "Enemy: Game Critic"
+          },
+          {
+            "name": "Enemy: Motor Mama"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Zer0 Poster"
+          },
+          {
+            "name": "Symbol : Maya Poster"
+          },
+          {
+            "name": "Vending  Motor Mamas Arena: Torgue Vendor"
+          },
+          {
+            "name": "Vending  Motor Mamas Arena: Ammo"
+          },
+          {
+            "name": "Vending  Motor Mamas Arena: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 218,
+            "y": 193,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "The Forge",
+        "sections": [
+          {
+            "name": "Quest: Knockin' on Heaven's Door"
+          },
+          {
+            "name": "Quest: Kickstart My Heart"
+          },
+          {
+            "name": "Quest: Battle: Twelve O' Clock High"
+          },
+          {
+            "name": "Quest: Tier 2 Battle: Twelve O' Clock High"
+          },
+          {
+            "name": "Quest: Tier 3 Battle: Twelve O' Clock High"
+          },
+          {
+            "name": "Quest: Tier 3 Rematch: Twelve O' Clock High"
+          },
+          {
+            "name": "Quest: Commercial Appeal"
+          },
+          {
+            "name": "Quest: My Husband the Skag"
+          },
+          {
+            "name": "Quest: Say That To My Face"
+          },
+          {
+            "name": "Enemy: Anonymous Troll"
+          },
+          {
+            "name": "Enemy: Uriah"
+          },
+          {
+            "name": "Enemy: Piston's Blimp"
+          },
+          {
+            "name": "Challenge : Air Mail"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : I DID Start the Fire"
+          },
+          {
+            "name": "Challenge : Parachutes Are for Pansies"
+          },
+          {
+            "name": "Chest : Landing Pad MAin'tenance"
+          },
+          {
+            "name": "Chest : Forge Parkour"
+          },
+          {
+            "name": "Chest : Junkyard"
+          },
+          {
+            "name": "Symbol : Smack Talker"
+          },
+          {
+            "name": "Symbol : Lava"
+          },
+          {
+            "name": "Symbol : Housing"
+          },
+          {
+            "name": "Vending  Entrance: Torgue Vendor"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Forge Bounty Board: Ammo"
+          },
+          {
+            "name": "Vending  Forge Bounty Board: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 188,
+            "y": 155,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Hammerlock DLC Challenges",
+        "sections": [
+          {
+            "name": "Challenge : Boroking Around"
+          },
+          {
+            "name": "Challenge : Harder They Fall"
+          },
+          {
+            "name": "Challenge : Fan Boy"
+          },
+          {
+            "name": "Challenge : Savage Bloody Savage"
+          },
+          {
+            "name": "Challenge : Stinging Sensation"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 510,
+            "y": 505,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Hunter's Grotto",
+        "sections": [
+          {
+            "name": "Quest: Savage Lands"
+          },
+          {
+            "name": "Quest: An Acquired Taste"
+          },
+          {
+            "name": "Quest: Still Just a Borok in a Cage"
+          },
+          {
+            "name": "Quest: Egg on Your Face"
+          },
+          {
+            "name": "Quest: I Like My Monsters Rare"
+          },
+          {
+            "name": "Quest: Professor Nakayama, I Presume?"
+          },
+          {
+            "name": "Quest: Palling Around"
+          },
+          {
+            "name": "Quest: Big Feet"
+          },
+          {
+            "name": "Quest: Now You See It"
+          },
+          {
+            "name": "Quest: The Fall of Nakayama"
+          },
+          {
+            "name": "Quest: Voracidous the Invincible"
+          },
+          {
+            "name": "Enemy: Arizona"
+          },
+          {
+            "name": "Enemy: The Bulwark"
+          },
+          {
+            "name": "Enemy: Bulstoss"
+          },
+          {
+            "name": "Enemy: Dexiduous the Invincible"
+          },
+          {
+            "name": "Chest : Bulstoss Village"
+          },
+          {
+            "name": "Chest : Under Carriage Top"
+          },
+          {
+            "name": "Chest : Arizona's Chest"
+          },
+          {
+            "name": "Chest : Destroyed Road"
+          },
+          {
+            "name": "Challenge : Grenade Fishing"
+          },
+          {
+            "name": "Challenge : Stool Sample"
+          },
+          {
+            "name": "Challenge : It's a Trap! Kind of."
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Arizona's Lair"
+          },
+          {
+            "name": "Symbol : Grotto Lodge"
+          },
+          {
+            "name": "Symbol : Grotto Start"
+          },
+          {
+            "name": "Symbol : Dahl Door"
+          },
+          {
+            "name": "Vending  Lodge: Guns"
+          },
+          {
+            "name": "Vending  Lodge: Ammo"
+          },
+          {
+            "name": "Vending  The Aegrus Sophisticates Lodge: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 259,
+            "y": 473,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Scylla's Grove",
+        "sections": [
+          {
+            "name": "Quest: The Rakk Dahlia Murder"
+          },
+          {
+            "name": "Quest: Urine, You're Out"
+          },
+          {
+            "name": "Quest: Follow The Glow"
+          },
+          {
+            "name": "Quest: Nakayama-rama"
+          },
+          {
+            "name": "Quest: Ol Pukey"
+          },
+          {
+            "name": "Quest: A-Hunting We Will Go"
+          },
+          {
+            "name": "Enemy: Thermitage"
+          },
+          {
+            "name": "Enemy: Rakkanoth"
+          },
+          {
+            "name": "Enemy: Omnd-Omnd-Ohk"
+          },
+          {
+            "name": "Challenge : Beware the Clap"
+          },
+          {
+            "name": "Challenge : Human Barbecue"
+          },
+          {
+            "name": "Challenge : Rakk Forest"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Low Gut Rut Wall"
+          },
+          {
+            "name": "Symbol : Urine Wall"
+          },
+          {
+            "name": "Symbol : Upper Village"
+          },
+          {
+            "name": "Symbol : Lower Village"
+          },
+          {
+            "name": "Vending  Entrance: Guns"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Grifters Reach: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 239,
+            "y": 444,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Ardorton Station",
+        "sections": [
+          {
+            "name": "Enemy: Dribbles"
+          },
+          {
+            "name": "Enemy: Woundspike"
+          },
+          {
+            "name": "Chest : Ardo Farm"
+          },
+          {
+            "name": "Chest : Power High"
+          },
+          {
+            "name": "Chest : Woundspike's Lair"
+          },
+          {
+            "name": "Chest : Skin-Chop Chop-Shop"
+          },
+          {
+            "name": "Challenge : Horrible Assistants"
+          },
+          {
+            "name": "Challenge : I Promised to Kill You Last"
+          },
+          {
+            "name": "Challenge : Power High"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Woundspike's Lair"
+          },
+          {
+            "name": "Symbol : Psycho Surgery"
+          },
+          {
+            "name": "Symbol : Ardo Farm"
+          },
+          {
+            "name": "Symbol : Dribble's Lair"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Exit: Ammo"
+          },
+          {
+            "name": "Vending  Exit: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 218,
+            "y": 422,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Candlerakk's Crag",
+        "sections": [
+          {
+            "name": "Enemy: Rouge"
+          },
+          {
+            "name": "Enemy: Bloodtail"
+          },
+          {
+            "name": "Enemy: Chief Ngwatu"
+          },
+          {
+            "name": "Enemy: Voracidous the Invincible"
+          },
+          {
+            "name": "Chest : Lower Bluff"
+          },
+          {
+            "name": "Chest : Tracking Area"
+          },
+          {
+            "name": "Chest : Rouge Overlook"
+          },
+          {
+            "name": "Chest : Before Terminus"
+          },
+          {
+            "name": "Chest : Hyperion Nest Box West"
+          },
+          {
+            "name": "Chest : Hyperion Nest Box East"
+          },
+          {
+            "name": "Chest : Hyperion Nest Box Centre"
+          },
+          {
+            "name": "Challenge : Cage Free"
+          },
+          {
+            "name": "Challenge : Nest Egg"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Challenge : Voracidous the Invincible"
+          },
+          {
+            "name": "Symbol : Elite Crossing House"
+          },
+          {
+            "name": "Symbol : Near Voracidous"
+          },
+          {
+            "name": "Symbol : Rouges Lair"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Voracidous Arena: Ammo"
+          },
+          {
+            "name": "Vending  Voracidous Arena: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 205,
+            "y": 393,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "H.S.S. Terminus",
+        "sections": [
+          {
+            "name": "Enemy: Jackenstein"
+          },
+          {
+            "name": "Enemy: Dr. Nakayama"
+          },
+          {
+            "name": "Chest : #1"
+          },
+          {
+            "name": "Chest : #2"
+          },
+          {
+            "name": "Chest : #3"
+          },
+          {
+            "name": "Chest : #4"
+          },
+          {
+            "name": "Chest : #5"
+          },
+          {
+            "name": "Chest : #6"
+          },
+          {
+            "name": "Chest : #7"
+          },
+          {
+            "name": "Chest : #8"
+          },
+          {
+            "name": "Chest : #9"
+          },
+          {
+            "name": "Chest : #10"
+          },
+          {
+            "name": "Chest : #11"
+          },
+          {
+            "name": "Chest : #12"
+          },
+          {
+            "name": "Chest : #13"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Terminus"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 238,
+            "y": 417,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Tina DLC Challenges",
+        "sections": [
+          {
+            "name": "Challenge : Fus Roh Die"
+          },
+          {
+            "name": "Challenge : Scot-Free"
+          },
+          {
+            "name": "Challenge : Rock Out With Your Rock Out"
+          },
+          {
+            "name": "Challenge : Knighty Knight"
+          },
+          {
+            "name": "Challenge : Can't Fool Me"
+          },
+          {
+            "name": "Challenge : Orcs Should Perish"
+          },
+          {
+            "name": "Challenge : Bone Breaker"
+          },
+          {
+            "name": "Challenge : Ew Ew Ew Ew"
+          },
+          {
+            "name": "Challenge : Cheerful Green Giants"
+          },
+          {
+            "name": "Challenge : Magical Massacre"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 525,
+            "y": 505,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Unassuming Docks",
+        "sections": [
+          {
+            "name": "Quest: A Role-Playing Game"
+          },
+          {
+            "name": "Enemy: Mr. Boney Pants Guy"
+          },
+          {
+            "name": "Enemy: Unmotivated Golem"
+          },
+          {
+            "name": "Chest : Forlorn Ruins"
+          },
+          {
+            "name": "Chest : Southern Temple"
+          },
+          {
+            "name": "Challenge : The Taste of War"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Temple Shoreline"
+          },
+          {
+            "name": "Symbol : Forlorn Ruins"
+          },
+          {
+            "name": "Symbol : Hamlet Building"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 150,
+            "y": 462,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Flamerock Refuge",
+        "sections": [
+          {
+            "name": "Quest: Critical Fail"
+          },
+          {
+            "name": "Quest: Ell in Shining Armor"
+          },
+          {
+            "name": "Quest: Fake Geek Guy"
+          },
+          {
+            "name": "Quest: MMORPGFPS"
+          },
+          {
+            "name": "Quest: Post-Crumpocalyptic"
+          },
+          {
+            "name": "Quest: Roll Insight"
+          },
+          {
+            "name": "Quest: Denial, Anger, Initiative"
+          },
+          {
+            "name": "Quest: The Sword in The Stoner"
+          },
+          {
+            "name": "Quest: Winter is a Bloody Business"
+          },
+          {
+            "name": "Quest: Pet Butt Stallion"
+          },
+          {
+            "name": "Quest: Feed Butt Stallion"
+          },
+          {
+            "name": "Quest: Raiders of the Last Boss"
+          },
+          {
+            "name": "Quest: Find Murderlin's Temple"
+          },
+          {
+            "name": "Enemy: Sir Reginald von Bartlesby"
+          },
+          {
+            "name": "Challenge : Smashin Pumpkins"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Outskirts"
+          },
+          {
+            "name": "Symbol : Parkour"
+          },
+          {
+            "name": "Vending  Town: Guns"
+          },
+          {
+            "name": "Vending  Town: Ammo"
+          },
+          {
+            "name": "Vending  Town: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 185,
+            "y": 465,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "The Forest",
+        "sections": [
+          {
+            "name": "Quest: Tree Hugger"
+          },
+          {
+            "name": "Enemy: Spiderpants"
+          },
+          {
+            "name": "Enemy: Arguk the Butcher"
+          },
+          {
+            "name": "Enemy: Warlord Grug"
+          },
+          {
+            "name": "Chest : Orc Camp"
+          },
+          {
+            "name": "Chest : Blacksmith"
+          },
+          {
+            "name": "Challenge : SO. CUTE."
+          },
+          {
+            "name": "Challenge : Extreme Orc Makeover"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Blood Tree Camp"
+          },
+          {
+            "name": "Symbol : Glenn's Cottage"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 202,
+            "y": 501,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Immortal Woods",
+        "sections": [
+          {
+            "name": "Quest: Lost Souls"
+          },
+          {
+            "name": "Quest: Dwarven Allies"
+          },
+          {
+            "name": "Enemy: -=n00bkiller=-"
+          },
+          {
+            "name": "Enemy: 420_E-Sports_Masta"
+          },
+          {
+            "name": "Enemy: [720NoScope]Headshotz"
+          },
+          {
+            "name": "Enemy: xxDatVaultHuntrxx"
+          },
+          {
+            "name": "Enemy: King Aliah"
+          },
+          {
+            "name": "Enemy: King Crono"
+          },
+          {
+            "name": "Enemy: King Seth"
+          },
+          {
+            "name": "Enemy: King Nazar"
+          },
+          {
+            "name": "Chest : Graveyard Pillar"
+          },
+          {
+            "name": "Chest : Ruins Altar"
+          },
+          {
+            "name": "Chest : Ruins Parkour"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Fields of the Fallen"
+          },
+          {
+            "name": "Symbol : Sacred Ruins Upper"
+          },
+          {
+            "name": "Symbol : Sacred Ruins Lower"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Vitality Grove: Ammo"
+          },
+          {
+            "name": "Vending  Vitality Grove: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 232,
+            "y": 511,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Mines of Avarice",
+        "sections": [
+          {
+            "name": "Quest: The Beard Makes The Man"
+          },
+          {
+            "name": "Quest: My Kingdom for a Wand"
+          },
+          {
+            "name": "Quest: The Claptrap's Apprentice"
+          },
+          {
+            "name": "Quest: A Game of Games"
+          },
+          {
+            "name": "Enemy: Maxibillion"
+          },
+          {
+            "name": "Enemy: Magical Orc"
+          },
+          {
+            "name": "Enemy: Magical Spider"
+          },
+          {
+            "name": "Enemy: Gold Golem"
+          },
+          {
+            "name": "Enemy: Warlord Turge"
+          },
+          {
+            "name": "Chest : Ingot Processing"
+          },
+          {
+            "name": "Chest : Gilded Forge"
+          },
+          {
+            "name": "Chest : Greedtooth"
+          },
+          {
+            "name": "Chest : Hanging Platform"
+          },
+          {
+            "name": "Challenge : The Floor is Lava"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Ingot Processing"
+          },
+          {
+            "name": "Symbol : Cube Room"
+          },
+          {
+            "name": "Symbol : Greedtooth's Lair"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Greedtooth: Ammo"
+          },
+          {
+            "name": "Vending  Greedtooth: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 316,
+            "y": 518,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Hatred's Shadow",
+        "sections": [
+          {
+            "name": "Quest: Loot Ninja"
+          },
+          {
+            "name": "Enemy: Canine"
+          },
+          {
+            "name": "Enemy: Molehill"
+          },
+          {
+            "name": "Enemy: Sir Boil"
+          },
+          {
+            "name": "Enemy: Sir Mash"
+          },
+          {
+            "name": "Enemy: Sir Stew"
+          },
+          {
+            "name": "Enemy: Handsome Dragon"
+          },
+          {
+            "name": "Chest : The Pit Cliff"
+          },
+          {
+            "name": "Chest : Birds Nest"
+          },
+          {
+            "name": "Chest : Knight Bridge Challenge #1"
+          },
+          {
+            "name": "Chest : Knight Bridge Challenge #2"
+          },
+          {
+            "name": "Chest : Darkness Magic Missile Door"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Sir Boil"
+          },
+          {
+            "name": "Symbol : Nefarious Elevator"
+          },
+          {
+            "name": "Symbol : Sir Mash"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Handsome Bridge: Guns"
+          },
+          {
+            "name": "Vending  Handsome Bridge: Ammo"
+          },
+          {
+            "name": "Vending  Handsome Bridge: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 349,
+            "y": 432,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Lair of Infinite Agony",
+        "sections": [
+          {
+            "name": "Quest: The Amulet"
+          },
+          {
+            "name": "Quest: My Dead Brother"
+          },
+          {
+            "name": "Enemy: Sorcerer's Daughter"
+          },
+          {
+            "name": "Enemy: Edgar or Simon"
+          },
+          {
+            "name": "Chest : Sepulcher Challenge"
+          },
+          {
+            "name": "Chest : Boss Lair"
+          },
+          {
+            "name": "Chest : Edgars Sanctum"
+          },
+          {
+            "name": "Chest : Bone Barracks"
+          },
+          {
+            "name": "Challenge : A Single Deadly Bite"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Platform Corridor"
+          },
+          {
+            "name": "Symbol : Hall of the Dead"
+          },
+          {
+            "name": "Symbol : Wailer Drop"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Sorcerer's Daughter Arena: Ammo"
+          },
+          {
+            "name": "Vending  Sorcerer's Daughter Arena: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 334,
+            "y": 469,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Dragon Keep",
+        "sections": [
+          {
+            "name": "Enemy: Handsome Sorcerer"
+          },
+          {
+            "name": "Chest : Ledge"
+          },
+          {
+            "name": "Challenge : Blood for Blood"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Sacrifice Staircase"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 380,
+            "y": 451,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Murderlin's Temple",
+        "sections": [
+          {
+            "name": "Quest: Magic Slaughter: Round 1"
+          },
+          {
+            "name": "Quest: Magic Slaughter: Round 2"
+          },
+          {
+            "name": "Quest: Magic Slaughter: Round 3"
+          },
+          {
+            "name": "Quest: Magic Slaughter: Round 4"
+          },
+          {
+            "name": "Quest: Magic Slaughter: Round 5"
+          },
+          {
+            "name": "Quest: Magic Slaughter: Badass Round"
+          },
+          {
+            "name": "Quest: The Magic of Childhood"
+          },
+          {
+            "name": "Enemy: Warlord Slog"
+          },
+          {
+            "name": "Challenge : Work! Work! Work!"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : The Nursery"
+          },
+          {
+            "name": "Symbol : Below Murderlin"
+          },
+          {
+            "name": "Vending  Entrance: Guns"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 200,
+            "y": 465,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "The Winged Storm",
+        "sections": [
+          {
+            "name": "Enemy: Incinerator"
+          },
+          {
+            "name": "Enemy: Healianth"
+          },
+          {
+            "name": "Enemy: Brood"
+          },
+          {
+            "name": "Enemy: Boost"
+          },
+          {
+            "name": "Chest : #1"
+          },
+          {
+            "name": "Chest : #2"
+          },
+          {
+            "name": "Chest : #3"
+          },
+          {
+            "name": "Chest : #4"
+          },
+          {
+            "name": "Chest : #5"
+          },
+          {
+            "name": "Chest : #6"
+          },
+          {
+            "name": "Chest : #7"
+          },
+          {
+            "name": "Chest : #8"
+          },
+          {
+            "name": "Chest : #9"
+          },
+          {
+            "name": "Chest : #10"
+          },
+          {
+            "name": "Chest : #11"
+          },
+          {
+            "name": "Chest : #12"
+          },
+          {
+            "name": "Chest : #13"
+          },
+          {
+            "name": "Chest : #14"
+          },
+          {
+            "name": "Chest : #15"
+          },
+          {
+            "name": "Chest : #16"
+          },
+          {
+            "name": "Chest : #17"
+          },
+          {
+            "name": "Chest : #18"
+          },
+          {
+            "name": "Chest : #19"
+          },
+          {
+            "name": "Chest : #20"
+          },
+          {
+            "name": "Chest : #21"
+          },
+          {
+            "name": "Chest : #22"
+          },
+          {
+            "name": "Chest : #23"
+          },
+          {
+            "name": "Chest : #24"
+          },
+          {
+            "name": "Chest : #25"
+          },
+          {
+            "name": "Chest : #26"
+          },
+          {
+            "name": "Chest : #27"
+          },
+          {
+            "name": "Chest : #28"
+          },
+          {
+            "name": "Chest : #29"
+          },
+          {
+            "name": "Chest : #30"
+          },
+          {
+            "name": "Chest : #31"
+          },
+          {
+            "name": "Chest : #32"
+          },
+          {
+            "name": "Chest : #33"
+          },
+          {
+            "name": "Chest : #34"
+          },
+          {
+            "name": "Chest : #35"
+          },
+          {
+            "name": "Chest : #36"
+          },
+          {
+            "name": "Chest : #37"
+          },
+          {
+            "name": "Chest : #38"
+          },
+          {
+            "name": "Chest : #39"
+          },
+          {
+            "name": "Chest : #40"
+          },
+          {
+            "name": "Chest : #41"
+          },
+          {
+            "name": "Chest : #42"
+          },
+          {
+            "name": "Chest : #43"
+          },
+          {
+            "name": "Chest : #44"
+          },
+          {
+            "name": "Chest : #45"
+          },
+          {
+            "name": "Chest : #46"
+          },
+          {
+            "name": "Chest : #47"
+          },
+          {
+            "name": "Chest : #48"
+          },
+          {
+            "name": "Chest : #49"
+          },
+          {
+            "name": "Chest : #50"
+          },
+          {
+            "name": "Chest : #51"
+          },
+          {
+            "name": "Chest : #52"
+          },
+          {
+            "name": "Chest : #53"
+          },
+          {
+            "name": "Chest : #54"
+          },
+          {
+            "name": "Chest : #55"
+          },
+          {
+            "name": "Chest : #56"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : The Winged Storm"
+          },
+          {
+            "name": "Vending  Entrance: Guns"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 365,
+            "y": 455,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Lilith DLC Challenges",
+        "sections": [
+          {
+            "name": "Challenge : Do It For The Vine"
+          },
+          {
+            "name": "Challenge : Fertile Ground"
+          },
+          {
+            "name": "Challenge : Flower Power"
+          },
+          {
+            "name": "Challenge : The Burdens of Creation"
+          },
+          {
+            "name": "Challenge : Let It Grow"
+          },
+          {
+            "name": "Challenge : Tanks But No Tanks"
+          },
+          {
+            "name": "Challenge : You Started It"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 540,
+            "y": 505,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Fight for Sanctuary Intro",
+        "sections": [
+          {
+            "name": "Quest: FFSSanctuary: The Dawn of New Pandora"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 305,
+            "y": 110,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "The Backburner",
+        "sections": [
+          {
+            "name": "Quest: Spore Chores"
+          },
+          {
+            "name": "Quest: Winging It"
+          },
+          {
+            "name": "Quest: Hypocritical Oath"
+          },
+          {
+            "name": "Quest: The Vaughnguard"
+          },
+          {
+            "name": "Quest: Space Cowboy"
+          },
+          {
+            "name": "Quest: A Hard Place"
+          },
+          {
+            "name": "Quest: Cadeuceus"
+          },
+          {
+            "name": "Quest: The Hunt is Vaughn"
+          },
+          {
+            "name": "Quest: Shooting The Moon"
+          },
+          {
+            "name": "Quest: The Cost of Progress"
+          },
+          {
+            "name": "Quest: My Brittle Pony"
+          },
+          {
+            "name": "Quest: BFFFs"
+          },
+          {
+            "name": "Quest: A Most Cacophonous Lure"
+          },
+          {
+            "name": "Quest: Chief Executive Overlord"
+          },
+          {
+            "name": "Challenge : Make Yourself At Home"
+          },
+          {
+            "name": "Challenge : Fandir Fiction"
+          },
+          {
+            "name": "Challenge : Harmville"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Zed's"
+          },
+          {
+            "name": "Symbol : Entrance"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Vaughns HQ: Guns"
+          },
+          {
+            "name": "Vending  Vaughns HQ: Ammo"
+          },
+          {
+            "name": "Vending  Vaughns HQ: Meds"
+          },
+          {
+            "name": "Vending  Marcus: Guns"
+          },
+          {
+            "name": "Vending  Marcus: Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 305,
+            "y": 95,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Dahl Abandon",
+        "sections": [
+          {
+            "name": "Quest: The Oddest Couple"
+          },
+          {
+            "name": "Quest: Claptocurrency"
+          },
+          {
+            "name": "Enemy: The Dark Web"
+          },
+          {
+            "name": "Enemy: Lt. Bolson (New Pandora)"
+          },
+          {
+            "name": "Chest : Mine, Dahl Mine Chest #1"
+          },
+          {
+            "name": "Chest : Mine, Dahl Mine Chest #2"
+          },
+          {
+            "name": "Chest : The Rust Bucket Trunk"
+          },
+          {
+            "name": "Challenge : Abandoned Records"
+          },
+          {
+            "name": "Challenge : The Path to Paradise"
+          },
+          {
+            "name": "Challenge : Mine, Dahl Mine!"
+          },
+          {
+            "name": "Challenge : Hold The Door!"
+          },
+          {
+            "name": "Challenge : Out of Scope"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Sinon's Perch Climb"
+          },
+          {
+            "name": "Symbol : Rides End"
+          },
+          {
+            "name": "Symbol : Redclaw Rise Cliff"
+          },
+          {
+            "name": "Symbol : The Veiny Shaft"
+          },
+          {
+            "name": "Symbol : Sinon's Perch Container"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Door to the Mines: Ammo"
+          },
+          {
+            "name": "Vending  Door to the Mines: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 276,
+            "y": 125,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "The Burrows",
+        "sections": [
+          {
+            "name": "Enemy: Ghost"
+          },
+          {
+            "name": "Enemy: Lt. Angvar (New Pandora)"
+          },
+          {
+            "name": "Chest : Grrang'laarg'll #1"
+          },
+          {
+            "name": "Chest : Grrang'laarg'll #2"
+          },
+          {
+            "name": "Chest : Grrang'laarg'll #3"
+          },
+          {
+            "name": "Challenge : Dangers Deified"
+          },
+          {
+            "name": "Challenge : Grrang'laarg'll (Queen's Treasure)"
+          },
+          {
+            "name": "Challenge : Never Enough Tools"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Hyperion's Grave"
+          },
+          {
+            "name": "Symbol : Burrows Cliff"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 300,
+            "y": 155,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Helios Fallen",
+        "sections": [
+          {
+            "name": "Quest: Sirentology"
+          },
+          {
+            "name": "Enemy: Uranus Bot"
+          },
+          {
+            "name": "Enemy: Lt. Tetra (New Pandora)"
+          },
+          {
+            "name": "Chest : Moonshot ComplAin't Department"
+          },
+          {
+            "name": "Chest : Uranus"
+          },
+          {
+            "name": "Challenge : Butt Stomped"
+          },
+          {
+            "name": "Challenge : Corporate Droning"
+          },
+          {
+            "name": "Challenge : Serve, Spike, Slaughter"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Moonshot ComplAin't Dept"
+          },
+          {
+            "name": "Symbol : The Freightway"
+          },
+          {
+            "name": "Symbol : Hellion Hole"
+          },
+          {
+            "name": "Symbol : Munitions Loading"
+          },
+          {
+            "name": "Symbol : Fire Control Alpha"
+          },
+          {
+            "name": "Symbol : The Hold"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Munitions Loading: Ammo"
+          },
+          {
+            "name": "Vending  Munitions Loading: Meds"
+          },
+          {
+            "name": "Vending  The Arsenal: Ammo"
+          },
+          {
+            "name": "Vending  The Arsenal: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 304,
+            "y": 202,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Mt. Scarab Research Center",
+        "sections": [
+          {
+            "name": "Quest: Echoes of the Past"
+          },
+          {
+            "name": "Quest: Paradise Found"
+          },
+          {
+            "name": "Enemy: Lt. Hoffman (New Pandora)"
+          },
+          {
+            "name": "Enemy: Cassius"
+          },
+          {
+            "name": "Chest : Observation Deck"
+          },
+          {
+            "name": "Chest : Cassiuss Chest"
+          },
+          {
+            "name": "Challenge : Soliloquy Scientific"
+          },
+          {
+            "name": "Challenge : For Science!"
+          },
+          {
+            "name": "Challenge : Gaseous Cassius"
+          },
+          {
+            "name": "Challenge : No Peeking"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Test Candidate Detention"
+          },
+          {
+            "name": "Symbol : 02 Staircase"
+          },
+          {
+            "name": "Symbol : Experimentation Room"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Observation Deck: Ammo"
+          },
+          {
+            "name": "Vending  Observation Deck: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 246,
+            "y": 125,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Fight for Sanctuary Final Boss Fight",
+        "sections": [
+          {
+            "name": "Enemy: Hector"
+          },
+          {
+            "name": "Challenge : Timber!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 246,
+            "y": 140,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Writhing Deep",
+        "sections": [
+          {
+            "name": "Enemy: Haderax the Invincible"
+          },
+          {
+            "name": "Chest : Haderax #1"
+          },
+          {
+            "name": "Chest : Haderax #2"
+          },
+          {
+            "name": "Chest : Haderax #3"
+          },
+          {
+            "name": "Chest : Haderax #4"
+          },
+          {
+            "name": "Chest : Dune Raider"
+          },
+          {
+            "name": "Challenge : Haderax The Invincible"
+          },
+          {
+            "name": "Challenge : Dune Raider"
+          },
+          {
+            "name": "Challenge : Cult of the Vault"
+          },
+          {
+            "name": "Symbol : Elevator Room"
+          },
+          {
+            "name": "Symbol : Southern Top"
+          },
+          {
+            "name": "Symbol : Northern Top"
+          },
+          {
+            "name": "Vending  Haderax Spawn Room: Ammo"
+          },
+          {
+            "name": "Vending  Haderax Spawn Room: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 315,
+            "y": 155,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Hallowed Hollow",
+        "sections": [
+          {
+            "name": "Quest: The Bloody Harvest"
+          },
+          {
+            "name": "Quest: Trick or Treat"
+          },
+          {
+            "name": "Enemy: Sully the Blacksmith"
+          },
+          {
+            "name": "Enemy: Pumpkin Kingpin"
+          },
+          {
+            "name": "Enemy: Jacques O'Lantern"
+          },
+          {
+            "name": "Enemy: Cryptkeeper Clark"
+          },
+          {
+            "name": "Chest : Blood Altar"
+          },
+          {
+            "name": "Chest : Forge Exit"
+          },
+          {
+            "name": "Chest : Lavabluffs Broken Bridge"
+          },
+          {
+            "name": "Chest : Church of the Dead"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Kingpin Approach: Meds"
+          },
+          {
+            "name": "Vending  Kingpin Approach: Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 228,
+            "y": 360,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Gluttony Gulch",
+        "sections": [
+          {
+            "name": "Quest: The Hunger Pangs"
+          },
+          {
+            "name": "Quest: Grandma Flexington's Story"
+          },
+          {
+            "name": "Quest: Grandma Flexington's Story: Raid Difficulty"
+          },
+          {
+            "name": "Enemy: Chef Gouda Remsay"
+          },
+          {
+            "name": "Enemy: The Rat in the Hat"
+          },
+          {
+            "name": "Enemy: Chef Brulee"
+          },
+          {
+            "name": "Enemy: Chef Bork Bork"
+          },
+          {
+            "name": "Enemy: Wattle Gobbler"
+          },
+          {
+            "name": "Enemy: Glasspool, Tribute of Wurmwater"
+          },
+          {
+            "name": "Enemy: William, Tribute of Wurmwater"
+          },
+          {
+            "name": "Enemy: Axel, Tribute of Opportunity"
+          },
+          {
+            "name": "Enemy: Rose, Tribute of Opportunity"
+          },
+          {
+            "name": "Enemy: Strip, Tribute of Southern Shelf"
+          },
+          {
+            "name": "Enemy: Flay, Tribute of Southern Shelf"
+          },
+          {
+            "name": "Enemy: Bailly, Tribute of Sawtooth Cauldron"
+          },
+          {
+            "name": "Enemy: Moretus, Tribute of Sawtooth Cauldron"
+          },
+          {
+            "name": "Enemy: Cynder, Tribute of FrostburnCanyon"
+          },
+          {
+            "name": "Enemy: Fuse, Tribute of FrostburnCanyon"
+          },
+          {
+            "name": "Enemy: Annie, Tribute of Lynchwood"
+          },
+          {
+            "name": "Enemy: Garret, Tribute of Lynchwood"
+          },
+          {
+            "name": "Enemy: Fiona, Tribute of Sanctuary"
+          },
+          {
+            "name": "Enemy: Max, Tribute of Sanctuary"
+          },
+          {
+            "name": "Chest : Wattle Gobbler Chest #1"
+          },
+          {
+            "name": "Chest : Wattle Gobbler Chest #2"
+          },
+          {
+            "name": "Chest : Wattle Gobbler Chest #3"
+          },
+          {
+            "name": "Chest : Freezeburn Fridge"
+          },
+          {
+            "name": "Chest : Stabber Jabber Nest"
+          },
+          {
+            "name": "Vending  Entrance: Guns"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Kitchen: Ammo"
+          },
+          {
+            "name": "Vending  Stabber Jabber Area: Guns"
+          },
+          {
+            "name": "Vending  Tribute Station: Guns"
+          },
+          {
+            "name": "Vending  Tribute Station: Meds"
+          },
+          {
+            "name": "Vending  Tribute Station: Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 130,
+            "y": 251,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Marcus's Mercenary Shop",
+        "sections": [
+          {
+            "name": "Quest: Get Frosty"
+          },
+          {
+            "name": "Quest: Special Delivery"
+          },
+          {
+            "name": "Enemy: Tinder Snowflake"
+          },
+          {
+            "name": "Chest : Frozen Waterfall"
+          },
+          {
+            "name": "Chest : Waystation Cliffside"
+          },
+          {
+            "name": "Chest : Station Rooftop"
+          },
+          {
+            "name": "Vending  Entrance: Guns"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Tinder Snowflakes Arena: Meds"
+          },
+          {
+            "name": "Vending  Tinder Snowflakes Arena: Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 336,
+            "y": 179,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Rotgut Distillery",
+        "sections": [
+          {
+            "name": "Quest: A Match Made on Pandora"
+          },
+          {
+            "name": "Quest: Learning to Love"
+          },
+          {
+            "name": "Enemy: Colin Zaford"
+          },
+          {
+            "name": "Enemy: Bridget Hodunk"
+          },
+          {
+            "name": "Enemy: BLNG Loader"
+          },
+          {
+            "name": "Enemy: Stella"
+          },
+          {
+            "name": "Enemy: Ed"
+          },
+          {
+            "name": "Enemy: Innuendobot 5000"
+          },
+          {
+            "name": "Enemy: Sigmand"
+          },
+          {
+            "name": "Enemy: Ikaroa"
+          },
+          {
+            "name": "Enemy: Moby"
+          },
+          {
+            "name": "Enemy: Fire Crak'n"
+          },
+          {
+            "name": "Enemy: Rue, the Love Thresher"
+          },
+          {
+            "name": "Chest : Rectory 1"
+          },
+          {
+            "name": "Chest : Rectory 2"
+          },
+          {
+            "name": "Chest : Thresher Tails"
+          },
+          {
+            "name": "Chest : Hodunk Holler Dock"
+          },
+          {
+            "name": "Chest : Motel Car"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Pot of Gold: Ammo"
+          },
+          {
+            "name": "Vending  Wedding Venue: Meds"
+          },
+          {
+            "name": "Vending  Wedding Venue: Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 147,
+            "y": 296,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Wam Bam Island",
+        "sections": [
+          {
+            "name": "Quest: Fun, Sun, and Guns"
+          },
+          {
+            "name": "Quest: Victims of Vault Hunters"
+          },
+          {
+            "name": "Enemy: Sparky Flynt"
+          },
+          {
+            "name": "Enemy: Omnd-Omnd-Ohk"
+          },
+          {
+            "name": "Enemy: Son of Crawmerax"
+          },
+          {
+            "name": "Enemy: Son of Crawmerax Raid Boss"
+          },
+          {
+            "name": "Chest : Treasure Varkid 1"
+          },
+          {
+            "name": "Chest : Treasure Varkid 2"
+          },
+          {
+            "name": "Chest : Treasure Varkid 3"
+          },
+          {
+            "name": "Chest : Water Wheel Lodge"
+          },
+          {
+            "name": "Chest : Near Entrance Cliff"
+          },
+          {
+            "name": "Chest : Son of Crawmerax Exit 1"
+          },
+          {
+            "name": "Chest : Son of Crawmerax Exit 2"
+          },
+          {
+            "name": "Chest : Son of Crawmerax Exit 3"
+          },
+          {
+            "name": "Chest : Raid Reward #1"
+          },
+          {
+            "name": "Chest : Raid Reward #2"
+          },
+          {
+            "name": "Chest : Raid Reward #3"
+          },
+          {
+            "name": "Chest : Raid Reward #4"
+          },
+          {
+            "name": "Chest : Raid Reward #5"
+          },
+          {
+            "name": "Chest : Raid Reward #6"
+          },
+          {
+            "name": "Chest : Raid Reward #7"
+          },
+          {
+            "name": "Vending  Entrance: Ammo"
+          },
+          {
+            "name": "Vending  Entrance: Meds"
+          },
+          {
+            "name": "Vending  Water Wheel: Meds"
+          },
+          {
+            "name": "Vending  Water Wheel: Ammo"
+          },
+          {
+            "name": "Vending  Crawmerax Arena: Ammo"
+          },
+          {
+            "name": "Vending  Crawmerax Arena: Meds"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Overworld",
+            "x": 483,
+            "y": 127,
+            "size": 10,
+            "shape": "rect"
+          }
+        ]
+      }
+    ]
+  }
+]

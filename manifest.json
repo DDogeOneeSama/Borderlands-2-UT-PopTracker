@@ -1,0 +1,23 @@
+{
+    "name": "Borderlands 2 Archipelago",
+    "game_name": "Borderlands 2",
+    "package_version": "0.4.0",
+    "min_poptracker_version": "0.31.0",
+    "package_uid": "borderlands 2_ap",
+    "author": "DDoge Onee-Sama",
+    "variants": {
+        "default_tracker": {
+            "display_name": "Main Tracker",
+            "flags": [
+                "ap"
+            ]
+			},
+        "items_only": {
+            "display_name": "Items Only",
+            "flags": [
+                "ap"
+            ]
+			}
+		},
+  	"versions_url": "https://raw.githubusercontent.com/DDogeOneeSama/Borderlands-2-PopTracker/versions/versions.json"
+}

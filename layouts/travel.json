@@ -1,0 +1,165 @@
+{
+  "travel_grid_horizontal": {
+    "type": "array",
+    "orientation": "horizontal",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "h_alignment": "left",
+            "item_h_alignment": "center",
+            "item_v_alignment": "center",
+            "item_height": 36,
+            "item_width": 36,
+            "rows": [
+              [
+                "travel:southernshelf",
+                "travel:southernshelfbay",
+                "travel:threehornsdivide",
+                "travel:sanctuary",
+                "travel:frostburncanyon",
+                "travel:threehornsvalley",
+                "travel:southpawsteam&power",
+                "travel:thedust"
+              ],
+              [
+                "travel:bloodshotstronghold",
+                "travel:bloodshotramparts",
+                "travel:friendshipgulag",
+                "travel:tundraexpress",
+                "travel:endoftheline",
+                "travel:thefridge",
+                "travel:finksslaughterhouse",
+                "travel:highlandsoutwash"
+              ],
+              [
+                "travel:highlands",
+                "travel:theholyspirits",
+                "travel:sanctuaryhole",
+                "travel:causticcaverns",
+                "travel:wildlifeexploitationpreserve",
+                "travel:naturalselectionannex",
+                "travel:thousandcuts",
+                "travel:lynchwood"
+              ],
+              [
+                "travel:opportunity",
+                "travel:thebunker",
+                "travel:controlcoreangel",
+                "travel:eridiumblight",
+                "travel:orechasm",
+                "travel:sawtoothcauldron",
+                "travel:aridnexusboneyard",
+                "travel:aridnexusbadlands"
+              ],
+              [
+                "travel:herospass",
+                "travel:vaultofthewarrior",
+                "travel:terramorphouspeak",
+                "",
+                "",
+                "",
+                "travel:digistructpeak",
+                ""
+              ],
+              [
+                "progressivetravel:basegame",
+                "progressivetravel:basegame_side",
+                "progressivetravel:scarlett",
+                "progressivetravel:torgue",
+                "progressivetravel:hammerlock",
+                "progressivetravel:tina",
+                "progressivetravel:ffs",
+                "progressivetravel:headhunter"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "h_alignment": "left",
+            "item_h_alignment": "center",
+            "item_v_alignment": "center",
+            "item_height": 36,
+            "item_width": 36,
+            "rows": [
+              [
+                "",
+                "travel:oasis",
+                "travel:wurmwater",
+                "travel:haytersfolly",
+                "travel:therustyards",
+                "travel:washburnerefinery",
+                "travel:magnyslighthouse",
+                "travel:theleviathanslair"
+              ],
+              [
+                "",
+                "travel:badasscrater",
+                "travel:torguearena",
+                "travel:thebeatdown",
+                "travel:pyropetesbar",
+                "travel:badasscraterbar",
+                "travel:southernraceway",
+                "travel:theforge"
+              ],
+              [
+                "",
+                "travel:huntersgrotto",
+                "travel:scyllasgrove",
+                "travel:ardortonstation",
+                "travel:candlerakkscrag",
+                "travel:terminus"
+              ],
+              [
+                "",
+                "travel:unassumingdocks",
+                "travel:flamerockrefuge",
+                "travel:theforest",
+                "travel:immortalwoods",
+                "travel:minesofavarice",
+                "travel:hatredsshadow",
+                "travel:lairofinfiniteagony",
+                "travel:dragonkeep",
+                "travel:murderlinstemple",
+                "travel:thewingedstorm"
+              ],
+              [
+                "",
+                "travel:ffsintrosanctuary",
+                "travel:thebackburner",
+                "travel:dahlabandon",
+                "travel:theburrows",
+                "travel:heliosfallen",
+                "travel:mtscarabresearchcenter",
+                "travel:ffsbossfight",
+                "travel:writhingdeep"
+              ],
+              [
+                "",
+                "travel:hallowedhollow",
+                "travel:gluttonygulch",
+                "travel:marcussmercenaryshop",
+                "travel:rotgutdistillery",
+                "travel:wambamisland"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
